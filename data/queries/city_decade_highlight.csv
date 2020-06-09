@@ -1032,7 +1032,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.748342,-92.281939,"Little Rock","Arkansas","All","1960",2,0
 34.748342,-92.281939,"Little Rock","Arkansas","Poetry","1960",1,0
 32.2999,-90.1843,"Jackson","Mississippi","Civil rights","1960",5,0
-37.780595,-122.216587,"Oakland","California","All","1960",5,0
+37.780595,-122.216587,"Oakland","California","All","1960",6,1
 37.8691,-122.2696,"Berkeley","California","All","1960",5,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1960",3,0
 33.515884,-90.172589,"Greenwood","Mississippi","All","1960",2,0
@@ -1073,7 +1073,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.6854,-89.5953,"Peoria","Illinois","All","1960",1,0
 40.6854,-89.5953,"Peoria","Illinois","Civil rights","1960",1,0
 29.7652,-95.3657,"Houston","Texas","Civil rights","1960",1,0
-37.780595,-122.216587,"Oakland","California","Education","1960",1,0
+37.780595,-122.216587,"Oakland","California","Education","1960",2,1
 37.780595,-122.216587,"Oakland","California","History","1960",1,0
 41.885847,-87.618123,"Chicago","Illinois","Music","1960",2,0
 29.960484,-90.075301,"New Orleans","Louisiana","Poetry","1960",4,0
