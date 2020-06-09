@@ -151,7 +151,7 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
 
             svg.selectAll("a")
             .attr("xlink:href", function (d) {
-              return "./cities/" + d.City + "_" + d.State + "_" + document.getElementById('Highlight').value + ".html"
+              return "./cities/" + d.City.replace(" ","_") + "_" + d.State.replace(" ","_") + "_" + document.getElementById('Highlight').value.replace(" ","_") + ".html"
             })
         }
     });
