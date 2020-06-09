@@ -36,7 +36,7 @@ index_html = """
     Click cities to learn more; click states to zoom in.
   </p>
   <p>
-    All initial data comes from <a href="https://archive.org/details/africanamericanne00dank">African-American periodicals: a national bibliography</a>.
+    All initial data comes from <a href="https://archive.org/details/africanamericanne00dank">African-American newspapers and periodicals: a national bibliography</a>.
     I have three (unattainable) goals for this project: to fix all data-mining mistakes; to add the 21<sup>st</sup> century; 
     and to link to an archive of every periodical in the dataset.
     If you would like to contribute to any of these goals, please do!
