@@ -120,7 +120,7 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
 
         function radiusFunc(d) {
             if (d.Highlight == document.getElementById('Highlight').value) {
-                if (d.Decade == document.getElementById('Decade').value || document.getElementById('Decade').value == "All") {
+                if (d.Decade == document.getElementById('Decade').value) {
                     return Math.sqrt(d.Count);
                 } else {
                     return 0;
