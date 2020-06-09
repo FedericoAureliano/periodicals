@@ -1,5 +1,5 @@
 //Width and height of map
-var width = 700;
+var width = 850;
 var height = 500;
 var centered;
 
@@ -23,6 +23,29 @@ function nameLength(d) {
 // Get province color
 function stateFill(d) {
     return color(nameLength(d));
+}
+
+// This is essentially the zoom factor...global variable...lol
+var k = 1;
+
+function radiusFunc(d) {
+    if (d.Highlight == document.getElementById('Highlight').value) {
+        if (d.Decade == document.getElementById('Decade').value) {
+            return (Math.sqrt(d.Count) + 1) / k;
+        } else {
+            return 0;
+        }
+    } else {
+        return 0;
+    }
+}
+
+function fillFunc(d) {
+    if (d.Links > 0) {
+        return "#ff0013"
+    } else {
+        return "#1d3557";
+    }
 }
 
 // D3 Projection
@@ -60,7 +83,7 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
     .style("fill", stateFill);
 
     function clicked(d) {
-        var x, y, k;
+        var x, y;
       
         if (d && centered !== d) {
           var centroid = path.centroid(d);
@@ -81,7 +104,9 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
         g.transition()
             .duration(750)
             .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
-            .style("stroke-width", 1.5 / k + "px");
+            .style("stroke-width", 1 / k + "px")
+            .selectAll("circle")
+            .attr("r", function(d) { return radiusFunc(d, k); });
       }
 
     // Map the publications
@@ -121,26 +146,6 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
             .duration(500)
             .style("opacity", 0);
         });
-
-        function radiusFunc(d) {
-            if (d.Highlight == document.getElementById('Highlight').value) {
-                if (d.Decade == document.getElementById('Decade').value) {
-                    return Math.sqrt(d.Count);
-                } else {
-                    return 0;
-                }
-            } else {
-                return 0;
-            }
-        }
-
-        function fillFunc(d) {
-            if (d.Links > 0) {
-                return "#ff0013"
-            } else {
-                return "#1d3557";
-            }
-        }
 
         d3.select("#Decade").on("change", update)
         d3.select("#Highlight").on("change", update)
