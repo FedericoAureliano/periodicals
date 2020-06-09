@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+
+<head>
+  <title>African-American Newspapers and Periodicals: a Visual Bibliography</title>
+  <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65924431-1"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+          dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'UA-65924431-1');
+  </script>
+</head>
+
+<body>
+  <h2>African-American Newspapers and Periodicals: a Visual Bibliography</h2>
+  <div class="hbar"> </div>
+  <p>
+    Select a decade and topic from the drop-down menus (both default to all) to see where newspapers and periodicals related to that topic were being published during that decade.
+    For any given decade and topic, cities are red if we have a link to see at least one newspaper or periodical in that city from that decade related to that topic.
+    Click a city to see all relevant newspapers and periodicals, and links.
+  </p>
+  <p>
+    All initial data comes from <a href="https://archive.org/details/africanamericanne00dank">African-American newspapers and periodicals: a national bibliography</a>.
+    I have three (unattainable) goals for this project: to fix all data-mining mistakes; to add decades; 
+    and to link to a scan of at least one issue of every newspaper or periodical in the data-set.
+    If you would like to contribute to any of these goals, please do!
+    The project is on github and the data-set is <a href="https://github.com/FedericoAureliano/periodicals/blob/master/data/bibliography.csv">here</a>.
+    If you are not comfortable with git/github, but would still like to report an issue, you can contact <a href="https://federicoaureliano.github.io/">me</a> through e-mail.
+  </p>
+  <br>
+  <select id="Decade">
+    <option value="All">All Decades</option>
+    <option value="1820">1820s</option>
+    <option value="1830">1830s</option>
+    <option value="1840">1840s</option>
+    <option value="1850">1850s</option>
+    <option value="1860">1860s</option>
+    <option value="1870">1870s</option>
+    <option value="1880">1880s</option>
+    <option value="1890">1890s</option>
+    <option value="1900">1900s</option>
+    <option value="1910">1910s</option>
+    <option value="1920">1920s</option>
+    <option value="1930">1930s</option>
+    <option value="1940">1940s</option>
+    <option value="1950">1950s</option>
+    <option value="1960">1960s</option>
+    <option value="1970">1970s</option>
+    <option value="1980">1980s</option>
+    <option value="1990">1990s</option>
+  </select>
+  <select id="Highlight">
+    <option value="All">All Topics</option>
+    <option value="Art">Art</option>
+    <option value="Civil rights">Civil rights</option>
+    <option value="Comic">Comic</option>
+    <option value="Culture">Culture</option>
+    <option value="Education">Education</option>
+    <option value="Health">Health</option>
+    <option value="History">History</option>
+    <option value="Music">Music</option>
+    <option value="Poetry">Poetry</option>
+    <option value="Science">Science</option>
+  </select>
+  <svg></svg>
+  <script src="javascript/map.js"></script>
+</body>
+
+</html>

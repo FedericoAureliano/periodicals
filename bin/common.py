@@ -1,0 +1,33 @@
+DECADES = [
+    1820,
+    1830,
+    1840,
+    1850,
+    1860,
+    1870,
+    1880,
+    1890,
+    1900,
+    1910,
+    1920,
+    1930,
+    1940,
+    1950,
+    1960,
+    1970,
+    1980,
+    1990,
+]
+
+HIGHLIGHTS = [
+    "Art",
+    "Civil rights",
+    "Comic",
+    "Culture",
+    "Education",
+    "Health",
+    "History",
+    "Music",
+    "Poetry",
+    "Science",
+]
