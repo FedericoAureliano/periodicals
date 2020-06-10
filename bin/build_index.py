@@ -28,7 +28,7 @@ index_html = """
 </head>
 
 <body>
-  <h2>African-American Periodicals: a Visual Bibliography</h2>
+  <h1>African-American Periodicals: a Visual Bibliography</h1>
   <div class="hbar"> </div>
   <p>
     Select a decade and topic from the drop-down menus to see where relevant periodicals were published.
@@ -37,7 +37,7 @@ index_html = """
   </p>
   <p>
     All initial data comes from <a href="https://archive.org/details/africanamericanne00dank">African-American newspapers and periodicals: a national bibliography</a>.
-    I have three (unattainable) goals for this project: to fix all data-mining mistakes; to add the 21<sup>st</sup> century; 
+    I have three (unattainable) goals for this project: to fix all data-mining mistakes; to add the 21st century; 
     and to link to an archive of every periodical in the dataset.
     If you would like to contribute to any of these goals, please do!
     The project is on github and the dataset is <a href="https://github.com/FedericoAureliano/periodicals/blob/master/data/bibliography.csv">here</a>.

@@ -77,6 +77,7 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
     .enter()
     .append("path")
     .attr("d", path)      
+    .attr("id", "states")
     .on("click", clicked)
     .style("stroke", "rgb(190,190,190)")
     .style("stroke-width", "1")
@@ -98,15 +99,30 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
           centered = null;
         }
       
-        g.selectAll("path")
-            .classed("active", centered && function(d) { return d === centered; });
-      
         g.transition()
-            .duration(750)
+            .duration(0)
+            .selectAll("path")
+            .style("opacity", function (d) {
+                if (!centered || d === centered) {
+                    return 1;
+                } else {
+                    return 0.2;
+                }
+            });
+
+        g.transition()
+            .duration(500)
             .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
             .style("stroke-width", 1 / k + "px")
             .selectAll("circle")
-            .attr("r", function(d) { return radiusFunc(d, k); });
+            .attr("r", function(d) { return radiusFunc(d, k); })            
+            .style("opacity", function (d) {
+                if (!centered || d.State === centered.properties.name) {
+                    return 1;
+                } else {
+                    return 0.2;
+                }
+            });;
       }
 
     // Map the publications
@@ -154,7 +170,7 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
             g.selectAll("circle")
             .data(data)
             .transition()
-            .duration(750)
+            .duration(500)
             .attr("r", radiusFunc)
             .style("stroke", fillFunc)
 
