@@ -148,28 +148,29 @@ with open('data/bibliography.csv', 'w') as compiled:
             continue
 
         # Now let's find the publisher
-        id_in_pub = r.search(pub)
+        id_in_pub = r.finditer(pub)
 
-        if not id_in_pub:
-            # couldn't find ID in pub, go to next ID
-            continue
+        publisher = ""
 
-        id_start = id_in_pub.start()
-        reverse_starting_at_id = pub[:id_start][::-1]
+        for m in id_in_pub:
+            id_start = m.start()
+            reverse_starting_at_id = pub[:id_start][::-1]
 
-        re_publisher_name = re.compile("([^\d\n]*[a-zA-Z]+[^\d\n]*)+")
-        publisher_match = re_publisher_name.search(reverse_starting_at_id)
-        if not publisher_match:
-            # couldn't find publisher, go to next ID
-            continue
+            re_publisher_name = re.compile("([^\d\n]*[a-zA-Z]+[^\d\n]*)+")
+            publisher_match = re_publisher_name.search(reverse_starting_at_id)
+            if not publisher_match:
+                # couldn't find publisher, go to next ID
+                continue
 
-        publisher_start = publisher_match.start()
-        publisher = publisher_match.group(0)[::-1].replace('\n', '')
+            publisher_start = publisher_match.start()
+            tmp_publisher = publisher_match.group(0)[::-1].replace('\n', '')
 
-        while publisher.startswith(" ") or publisher.startswith(","):
-            publisher = publisher[1:]
-        while publisher.endswith(" ") or publisher.endswith(","):
-            publisher = publisher[:-1]
+            while tmp_publisher.startswith(" ") or tmp_publisher.startswith(","):
+                tmp_publisher = tmp_publisher[1:]
+            while tmp_publisher.endswith(" ") or tmp_publisher.endswith(","):
+                tmp_publisher = tmp_publisher[:-1]
+
+            publisher = tmp_publisher + " and " + publisher if publisher else tmp_publisher
 
         # Now let's find the subject
         id_in_subj = r.finditer(subj)
@@ -195,8 +196,5 @@ with open('data/bibliography.csv', 'w') as compiled:
                 tmp_subject = tmp_subject[:-1]
 
             subject = tmp_subject + " | " + subject if subject else tmp_subject
-
-        if subject == "":
-            continue
 
         print("%d,\"%s\",%s,%s,\"%s\",\"%s\",\"%s\",\"%s\"," %(i, name, first, last, city, state[:-len(" STATE")], publisher, subject), file=compiled)

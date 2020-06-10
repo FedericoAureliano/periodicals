@@ -77,7 +77,7 @@ for city in cities:
 </html>
 """%(city[0], city[1], highlight, table_html)
   
-    with open('cities/%s_%s_%s.html'%(city[0].replace(" ", "_"), city[1].replace(" ", "_"), highlight.replace(" ", "_")), 'w') as page:
+    with open('cities/%s_%s_%s.html'%(city[0].replace(" ", "_").replace(".", ""), city[1].replace(" ", "_"), highlight.replace(" ", "_")), 'w') as page:
       page.write(page_html)
 
 
