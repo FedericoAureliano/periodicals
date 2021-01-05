@@ -15,16 +15,8 @@ index_html = """
   <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/main.css">
   <script src="https://d3js.org/d3.v3.min.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65924431-1"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
-
-      function gtag() {
-          dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-      gtag('config', 'UA-65924431-1');
-  </script>
+  <script data-goatcounter="https://federicoaureliano.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </head>
 
 <body>
