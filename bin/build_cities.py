@@ -60,7 +60,7 @@ for city in cities:
 </head>
 
 <body>
-  <h1>%s, %s: %s</h1>
+  <h1>City: %s, %s (<a href=\"../index.html\">Return to Map</a>)<br>Category: %s</h1>
   <div class="dataset">
   %s
   </div>
