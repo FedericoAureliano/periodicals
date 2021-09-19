@@ -70,7 +70,7 @@ var div = d3.select("body")
 
 var g = svg.append('g');
 
-d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", function (json) {
+d3.json("https://federico.morarocha.ca/periodicals/data/us-states.json", function (json) {
     // Bind the data to the SVG and create one path per GeoJSON feature
     g.selectAll("path")
     .data(json.features)
@@ -126,7 +126,7 @@ d3.json("https://federicoaureliano.github.io/periodicals/data/us-states.json", f
       }
 
     // Map the publications
-    d3.csv("https://federicoaureliano.github.io/periodicals/data/queries/city_decade_highlight.csv", function (data) {
+    d3.csv("https://federico.morarocha.ca/periodicals/data/queries/city_decade_highlight.csv", function (data) {
 
     g.selectAll("circle")
         .data(data)
