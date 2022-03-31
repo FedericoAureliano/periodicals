@@ -1,5 +1,5 @@
-raw
 __pycache__
 intermediate.csv
 .vscode
 errors.txt
+.DS_Store

@@ -70,16 +70,18 @@ STATES = [
 ]
 
 with open('data/bibliography.csv', 'w') as compiled:
-    print("ID,Name,First,Last,City,State,Publisher,Subject,Link", file=compiled)
+    print("ID,Name,First,Last,City,State,Publisher,Subject,Link", file=compiled, flush=True)
 
     # For each ID
     for i in range(1, MAX+1):
+        print(i)
         # Find where the word "frequency" occurs after this ID
         p = re.compile("\n%s (.|[\n])*[Ff]requency" % (i))
         find_id_and_freq = p.search(text)
 
         if not find_id_and_freq:
             # if we can't find the word "frequency" occuring after this ID then go to the next
+            print("Failed at 1 for ID: %d" % i)
             continue
 
         start_of_id   = find_id_and_freq.start() + len(" %d " %i)
@@ -95,12 +97,15 @@ with open('data/bibliography.csv', 'w') as compiled:
 
         if start_of_date < 0:
             # we couldn't find a date, so go to the next ID
+            print("Failed at 2 for ID: %d" % i)
             continue
         if start_of_freq < 0:
             # we couldn't find a frequency, so go to the next ID
+            print("Failed at 3 for ID: %d" % i)
             continue
         if date_dash < 0:
             # we couldn't find a dash between years, so go to the next ID
+            print("Failed at 4 for ID: %d" % i)
             continue
 
         name = text[start_of_id:start_of_date].replace('\n', '')
@@ -119,6 +124,7 @@ with open('data/bibliography.csv', 'w') as compiled:
 
         if not id_in_geo:
             # couldn't find ID in geo, go to next ID
+            print("Failed at 5 for ID: %d" % i)
             continue
 
         id_start = id_in_geo.start()
@@ -136,8 +142,8 @@ with open('data/bibliography.csv', 'w') as compiled:
 
         best = -1
         state = ""
+        reverse_starting_after_city = reverse_starting_at_id[city_start+len(city):]
         for s in STATES:
-            reverse_starting_after_city = reverse_starting_at_id[city_start+len(city):]
             state_pos = reverse_starting_after_city.find(s[::-1])
             if (state_pos > 0 and state_pos < best) or best == -1:
                 state = s
@@ -145,6 +151,7 @@ with open('data/bibliography.csv', 'w') as compiled:
 
         if best < 0:
             # couldn't find a state, go to next ID
+            print("Failed at 6 for ID: %d" % i)
             continue
 
         # Now let's find the publisher
@@ -160,6 +167,7 @@ with open('data/bibliography.csv', 'w') as compiled:
             publisher_match = re_publisher_name.search(reverse_starting_at_id)
             if not publisher_match:
                 # couldn't find publisher, go to next ID
+                print("Failed at 7 for ID: %d" % i)
                 continue
 
             publisher_start = publisher_match.start()
@@ -185,6 +193,7 @@ with open('data/bibliography.csv', 'w') as compiled:
             subject_match = re_subject_name.search(reverse_starting_at_id)
             if not subject_match:
                 # couldn't find subject, go to next ID
+                print("Failed at 8 for ID: %d" % i)
                 continue
 
             subject_start = subject_match.start()
@@ -197,4 +206,4 @@ with open('data/bibliography.csv', 'w') as compiled:
 
             subject = tmp_subject + " | " + subject if subject else tmp_subject
 
-        print("%d,\"%s\",%s,%s,\"%s\",\"%s\",\"%s\",\"%s\"," %(i, name, first, last, city, state[:-len(" STATE")], publisher, subject), file=compiled)
+        print("%d,\"%s\",%s,%s,\"%s\",\"%s\",\"%s\",\"%s\"," %(i, name, first, last, city, state[:-len(" STATE")], publisher, subject), file=compiled, flush=True)

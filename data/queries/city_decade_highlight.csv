@@ -781,10 +781,10 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 26.78, -80.067222,"Riviera Beach","Florida","All","1990",1,0
 40.74838,-73.996705,"New York","New York","Civil rights","1960",20,0
 39.775006,-86.109348,"Indianapolis","Indiana","All","1990",8,1
-40.773874, -80.767553,"New Lisbon","Ohio","All","All",1,0
-40.773874, -80.767553,"New Lisbon","Ohio","All","1840",1,0
-40.773874, -80.767553,"New Lisbon","Ohio","All","1850",1,0
-40.773874, -80.767553,"New Lisbon","Ohio","All","1860",1,0
+40.773874,-80.767553,"New Lisbon","Ohio","All","All",1,0
+40.773874,-80.767553,"New Lisbon","Ohio","All","1840",1,0
+40.773874,-80.767553,"New Lisbon","Ohio","All","1850",1,0
+40.773874,-80.767553,"New Lisbon","Ohio","All","1860",1,0
 43.087112,-75.231463,"Utica","New York","All","All",4,0
 43.087112,-75.231463,"Utica","New York","All","1830",2,0
 41.333376,-77.74479,"Renovo","Pennsylvania","All","All",2,0
@@ -943,10 +943,10 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.74838,-73.996705,"New York","New York","Health","All",22,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1950",4,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1960",3,0
-38.996860, -76.966755,"Adelphi","Maryland","All","All",2,0
-38.996860, -76.966755,"Adelphi","Maryland","All","1990",2,0
-38.996860, -76.966755,"Adelphi","Maryland","Comic","1990",1,0
-38.996860, -76.966755,"Adelphi","Maryland","Comic","All",1,0
+38.996860,-76.966755,"Adelphi","Maryland","All","All",2,0
+38.996860,-76.966755,"Adelphi","Maryland","All","1990",2,0
+38.996860,-76.966755,"Adelphi","Maryland","Comic","1990",1,0
+38.996860,-76.966755,"Adelphi","Maryland","Comic","All",1,0
 36.167028,-86.778441,"Nashville","Tennessee","All","1970",21,0
 36.167028,-86.778441,"Nashville","Tennessee","Poetry","1970",2,0
 36.167028,-86.778441,"Nashville","Tennessee","Poetry","All",6,0

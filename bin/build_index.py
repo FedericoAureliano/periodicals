@@ -29,7 +29,7 @@ index_html = """
   </p>
   <p>
     All initial data comes from <a href="https://archive.org/details/africanamericanne00dank">African-American newspapers and periodicals: a national bibliography</a>. 
-    So far, links come from the <a href="https://www.oaklandlibrary.org/locations/african-american-museum-library-oakland">African American Museum & Library at Oakland</a>, 
+    So far, links come from the <a href="https://oaklandlibrary.org/content/newspapers-and-journalists/">African American Museum & Library at Oakland</a>, 
     the <a href="http://www.oac.cdlib.org/">Online Archive of California</a>, and
     the <a href="http://libguides.marist.edu/c.php?g=87271&p=563206">James A. Cannavino Library</a>.
     I have three (unattainable) goals for this project: to fix all data-mining mistakes; to add the 21st century; 
