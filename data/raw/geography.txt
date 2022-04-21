@@ -1,4 +1,4 @@
-Alabama STATE
+STATE Alabama STATE
 
 Aldrich, 317 
 
@@ -19,7 +19,7 @@ Birmingham, 249, 307, 319, 614, 727, 728,
 Brewton, 2870 
 Brundidge, 13 
 Calhoun, 1337 
-Champman, 3 
+Chapman, 3 
 Decatur, 1555, 2710, 5558 
 Demopolis, 1563 
 Dothan, 5522, 6250 
@@ -86,12 +86,12 @@ Wilson Dam, 5979
 Yazoo City, 2647 
 
 
-Alaska STATE
+STATE Alaska STATE
 
 Anchorage, 324, 446, 4479 
 
 
-Arizona STATE
+STATE Arizona STATE
 
 Fort Huachuca, 1243, 1247, 1257 
 Mesa, 4843 
@@ -101,7 +101,7 @@ Phoenix, 59, 484, 485, 486, 488, 696, 2682,
 Tucson, 487, 3679 
 
 
-Arkansas STATE
+STATE Arkansas STATE
 
 El Dorado, 6294 
 Forrest City, 2445, 2927 
@@ -121,7 +121,7 @@ Rosston, 1362
 Smackover, 4587, 5421 
 Stella, 6246 
 
-California STATE
+STATE California STATE
 
 Albany, 1050 
 Alhambra, 3085 
@@ -296,7 +296,7 @@ Winnetka, 923
 Winton, 1474 
 Woodland, 1295 
 
-Colorado STATE
+STATE Colorado STATE
 
 Aurora, 6119 
 Boulder, 6009 
@@ -306,7 +306,7 @@ Denver, 276, 277, 282, 433, 800, 1670, 1993,
 1994, 1995, 3001, 4277, 4283, 4568, 5030, 
 5590,5647, 6019 
 
-Connecticut STATE
+STATE Connecticut STATE
 
 Bridgeport, 215, 1192, 2793 
 Carlino, 3746, 5418 
@@ -330,7 +330,7 @@ Storrs, 1725
 
 West Hartford, 4723 
 
-Delaware STATE
+STATE Delaware STATE
 
 Dover, 4666 
 
@@ -340,7 +340,7 @@ Wilmington, 84, 505, 1203, 1382, 1968, 1970,
 1971, 1972, 1974, 1975, 2416, 2529, 2542, 
 2965,3883, 4466, 4793, 5552, 6050, 6168 
 
-District of Columbia STATE
+STATE District of Columbia STATE
 
 Washington, 7, 11,21, 26, 28, 48, 58, 105, 117, 
 138, 142, 148, 152, 163, 169, 171, 178, 179, 
@@ -425,7 +425,7 @@ Washington, 7, 11,21, 26, 28, 48, 58, 105, 117,
 6466, 6468, 6472, 6482, 6516, 6521, 6529, 
 6555 
 
-Florida STATE
+STATE Florida STATE
 
 Aventura, 4517 
 Clearwater, 6004 
@@ -506,7 +506,7 @@ Wewahitchka, 4832
 Winter Park, 795, 2223 
 Woodville, 6478 
 
-Georgia STATE
+STATE Georgia STATE
 
 Albany, 146, 326, 327, 3406, 5698 
 Americus, 3439, 6222 
@@ -578,7 +578,7 @@ Tucker, 2094, 5758, 5829
 Union City, 544, 545 
 Waycross, 2589, 5475, 6321 
 
-Hawaii STATE
+STATE Hawaii STATE
 
 Hilo, 296 
 
@@ -587,7 +587,7 @@ Keaau, 296
 Pahoa, 2841 
 Pearl City, 296, 3663 
 
-Illinois STATE
+STATE Illinois STATE
 
 Aledo, 1355, 3418,5037 
 Bloomington, 6241 
@@ -696,7 +696,7 @@ Matteson, 23
 Maywood, 298 
 Metropolis, 3777, 3778 
 Mount Morris, 6476 
-Mt. Carroll, 1357,5125 
+Mount Carroll, 1357,5125 
 Normal, 3368, 4537, 4633 
 Northbrook, 1191, 3940 
 Oak Park, 1547 
@@ -720,7 +720,7 @@ Urbana, 221, 222, 231, 269, 278, 983, 2082,
 Waukegan, 280, 4473 
 Wilmette, 1134 
 
-Indiana STATE
+STATE Indiana STATE
 
 Anderson, 5371 
 
@@ -762,7 +762,7 @@ West Lafayette, 156, 321, 818, 3166, 4505,
 
 4886,5949 
 
-Iowa STATE
+STATE Iowa STATE
 
 Buxton, 1311 
 Cedar Rapids, 3980 
@@ -778,7 +778,7 @@ Iowa City, 2289, 5072
 Sioux City, 5402 
 Waterloo, 1964, 6313, 6314 
 
-Kansas STATE
+STATE Kansas STATE
 
 Atchison, 532, 6398 
 Baxter Springs, 5491 
@@ -822,7 +822,7 @@ Wichita, 428, 1684, 3393, 3396, 3398, 3804,
 4051, 4100,4194, 4355, 4783, 4785, 6418, 
 6419, 6420, 6421,6422, 6423 
 
-Kentucky STATE
+STATE Kentucky STATE
 
 Berea, 4622 
 
@@ -852,7 +852,7 @@ Sebree, 5292
 Shelbyville, 42 
 Washington, 5254 
 
-Louisiana STATE
+STATE Louisiana STATE
 
 Alexandria, 332, 4762 
 Baker, 1753, 3508 
@@ -919,13 +919,13 @@ Vidalia, 1780
 Winnfield, 4178 
 
 
-Maine STATE
+STATE Maine STATE
 
 Brunswick, 96 
 Hallowell, 96, 3541 
 Lewiston, 2580 
 
-Maryland STATE
+STATE Maryland STATE
 
 Adelphi, 599, 2564 
 Annapolis, 3704, 4152 
@@ -969,12 +969,12 @@ Spring Dale, 5195
 Temple Hills, 2538, 2696, 3703 
 Upper Marlboro, 157, 4921, 5078 
 
-Massachusetts STATE
+STATE Massachusetts STATE
 
 Amherst, 140, 180, 1811, 2071, 3176, 4761 
 Boston, 36, 44, 219, 222, 331, 398, 638, 801, 
 876, 1112, 1136, 1168, 1169, 1170, 1171, 
-1172, 1174, 1399, 1599, 1664, 1677, 1959, 
+1172, 1173, 1174, 1399, 1599, 1664, 1677, 1959, 
 2192, 2201, 2290, 2291, 2488, 2491, 2499, 
 2712, 2741, 2844, 2992, 3145, 3335, 3366, 
 3516, 3524, 3537, 3751, 3903, 3906, 3963, 
@@ -1005,7 +1005,7 @@ Wellesley, 1029, 1083, 1111, 1641
 Williamstown, 4707, 6439 
 Worcester, 3342, 4410 
 
-Michigan STATE
+STATE Michigan STATE
 
 Ann Arbor, 194, 254, 452, 963, 1024, 1220, 
 1300, 1778, 1834, 2339, 4828, 5389, 5425, 
@@ -1063,7 +1063,7 @@ Tecumseh, 6020
 
 Ypsilanti, 5198 
 
-Minnesota STATE
+STATE Minnesota STATE
 
 Duluth, 3172, 6489 
 Edina, 2536 
@@ -1083,7 +1083,7 @@ St. Paul, 130, 232, 279, 473, 1197, 1443, 2618,
 4499, 4500, 4776, 4502, 4966, 5206, 5618, 
 5619,5715, 5983, 5984, 5985, 5986, 6489 
 
-Mississippi STATE
+STATE Mississippi STATE
 
 Alcorn, 328 
 
@@ -1145,9 +1145,7 @@ West Point, 4798, 6366
 Yazoo City, 241, 1476 
 
 
-Missouri STATE
-
-?, 1471 
+STATE Missouri STATE
 
 Advance, 5726 
 Caruthersville, 445 
@@ -1189,13 +1187,13 @@ St. Louis, 190, 300, 336, 409, 595, 618, 953,
 5717,5760,5797,6061, 6109, 6187, 6405 
 
 
-Montana STATE
+STATE Montana STATE
 
 Butte, 4229 
 Helena, 1685, 3892 
 
 
-Nebraska STATE
+STATE Nebraska STATE
 
 Lincoln, 2789, 5128, 6209, 6355 
 Omaha, 167, 258, 301, 350, 423, 996, 1035, 
@@ -1203,19 +1201,17 @@ Omaha, 167, 258, 301, 350, 423, 996, 1035,
 4601,4606, 4617,4948, 6210 
 
 
-Nevada STATE
+STATE Nevada STATE
 
 Las Vegas, 3024, 3478, 3479 
 
-New Hampshire STATE
+STATE New Hampshire STATE
 
 Concord, 2878, 2935 
 Hanover, 1935 
 
 
-New Jersey STATE
-
-?, 1057 
+STATE New Jersey STATE
 
 Atlantic City, 467, 765, 935, 4933 
 Berlin, 1356 
@@ -1288,7 +1284,7 @@ West Orange, 776
 
 Westfield, 1839 
 
-New Mexico STATE
+STATE New Mexico STATE
 
 Albuquerque, 3935, 4268, 5057, 5543 
 
@@ -1296,7 +1292,7 @@ Hobbs, 4860
 
 Las Cruces, 2787, 6011 
 
-New York STATE
+STATE New York STATE
 
 Albany, 50, 325, 938, 3497, 4312, 4331, 4476, 
 4486,5869, 6047, 6070 
@@ -1348,8 +1344,7 @@ Fresh Meadows, 4334
 Great Neck, 5581 
 Harlem Heights, 4449 
 Harlem, 688, 1055, 1466, 2811, 2824, 2948, 
-3149, 3939, 4198, 4224, 4931, 5073. See also 
-New York City 
+3149, 3939, 4198, 4224, 4931, 5073 
 Hartsdale, 3254 
 Hastings on Hudson, 6157 
 Hempstead, 2151, 2866, 2867, 3617, 4326, 
@@ -1377,8 +1372,8 @@ Monticello, 4533
 Moriches, 2893 
 
 Mount Vernon, 911, 1668, 6378 
-Mt. Kisco, 666 
-Mt. Vernon, 514 
+Mount Kisco, 666 
+Mount Vernon, 514 
 Napanoch, 2123 
 New Rochelle, 3431, 5731 
 New York, 6, 22, 27, 28, 31, 47, 51, 53, 54, 67, 
@@ -1477,13 +1472,12 @@ New York, 6, 22, 27, 28, 31, 47, 51, 53, 54, 67,
 6200, 6212, 6236, 6238, 6255, 6257, 6328, 
 6363, 6443, 6456, 6461, 6481, 6483, 6484, 
 6486, 6492, 6493, 6519, 6520, 6522, 6532, 
-6534. See also individual borough place 
-names. 
+6534
 
 Newburgh, 2999 
 Niagara, 847 
 Norwich, 6227 
-Nyack?, 5213 
+Nyack, 5213 
 Panama, 719 
 Queens, 1175,4068 
 
@@ -1516,7 +1510,7 @@ Yaphanker, 6526
 Yapshank, 2720 
 Yonkers, 885, 6376 
 
-North Carolina STATE
+STATE North Carolina STATE
 
 Asheville, 518, 1581, 5512, 5539, 6361 
 Belmont, 5327 
@@ -1579,7 +1573,7 @@ Winston-Salem, 362, 806, 3125, 3144, 3693,
 Winton, 611 
 
 
-Ohio STATE
+STATE Ohio STATE
 
 Akron, 1566, 3992, 4581, 5105 
 Athens, 235, 1324, 1782, 1783 
@@ -1657,7 +1651,7 @@ Yellow Springs, 2535
 Youngstown, 1239, 3666, 5889 
 Zanesville, 3969, 3970 
 
-Oklahoma STATE
+STATE Oklahoma STATE
 
 Ardmore, 574, 619, 4592, 6490 
 Bartlesville, 2059 
@@ -1692,7 +1686,7 @@ Tulsa, 668, 4588, 4593, 5356, 5448, 5961,
 Wewoka, 6404 
 Wynnewood, 6504 
 
-Oregon STATE
+STATE Oregon STATE
 
 Grants Pass, 1157 
 
@@ -1706,7 +1700,7 @@ Portland, 95, 451, 991, 2046, 2074, 2624,
 Salem, 4539 
 Selma, 2004 
 
-Pennsylvania STATE
+STATE Pennsylvania STATE
 
 Allentown, 2353 
 
@@ -1728,7 +1722,7 @@ Chester County, 3582
 
 Cheyney, 1509, 1510, 1511, 5069 
 
-CoatesviOe, 77 
+Coatesville, 77 
 
 Cornwell Heights, 3852 
 
@@ -1786,14 +1780,14 @@ West Middlesex, 5371
 West Philadelphia, 5927 
 Wilcox, 5667 
 
-Rhode Island STATE
+STATE Rhode Island STATE
 
 Newport, 5915 
 
 Providence, 1831, 2776, 3475, 4244, 4564, 
 4969 
 
-South Carolina STATE
+STATE South Carolina STATE
 
 Anderson, 2895 
 Awendaw, 5743 
@@ -1837,7 +1831,7 @@ Union, 4794
 Witherbee, 3605 
 
 
-Tennessee STATE
+STATE Tennessee STATE
 
 Bluff City, 5812 
 Burns, 3894 
@@ -1888,7 +1882,7 @@ Somerville, 3488, 6368
 Union City, 1898 
 Whiteville, 342 
 
-Texas STATE
+STATE Texas STATE
 
 Arlington, 2131, 2653, 3480 
 Austin, 92, 370, 567, 568, 569, 570, 1273, 
@@ -1915,7 +1909,7 @@ Dallas, 32, 145, 475, 828, 1043, 1161, 1221,
 5820,5863, 6087 
 Deniston, 2586 
 Denton,5132 
-[Fort Sam] Houston, 1383 
+San Antonio, 1383 
 Fort Worth, 123, 1208, 1229, 1240, 2124, 
 2448, 2868, 2903, 3295, 3365, 3712, 4144, 
 5331, 5332, 5335, 5454, 5465, 5589, 5793, 
@@ -1973,13 +1967,13 @@ Tyler, 375, 376, 1308, 1369, 3620, 5654, 5655,
 Waco, 4748, 4749, 6276 
 Wortham, 5515 
 
-Utah STATE
+STATE Utah STATE
 
 Logan, 281 
 
 Salt Lake City, 124, 1195, 1196 
 
-Virginia 
+STATE Virginia STATE
 
 Alexandria, 434, 1010, 1401, 2250, 3065, 
 
@@ -2081,12 +2075,12 @@ Williamsburg, 1201, 1773, 3266
 Yorktown, 5330, 5373, 6533 
 
 
-Vermont STATE
+STATE Vermont STATE
 
 Rutland, 1165 
 
 
-Washington STATE
+STATE Washington STATE
 
 Bellevue, 2055 
 Bothell, 3040 
@@ -2110,7 +2104,7 @@ Vancouver, 4871, 6148
 Walla Walla, 977 
 
 
-West Virginia STATE
+STATE West Virginia STATE
 
 Bluefield, 1131, 1137, 2625 
 Charles Town, 2947, 3279, 5621 
@@ -2143,7 +2137,7 @@ Princeton, 822
 
 Union, 5187 
 
-Wisconsin STATE
+STATE Wisconsin STATE
 
 Beloit, 1576, 1577 
 

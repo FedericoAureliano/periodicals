@@ -95,8 +95,8 @@ African Methodist Episcopal Zion Church, 393,1588,3859,5627,6154,6191, 6557
 African National Prison Organization, 1255 
 African Nationalist Union, 1105 
 African Orthodox Church, 4160, 4654 
-African People’s Party, 5462 
-African People’s Socialist Party, 1299 
+African People's Party, 5462 
+African People's Socialist Party, 1299 
 African Students Association of the United States and Canada, 153 
 African Studies, 202, 1458 
 African Studies and Research Program Howard University, 171 
@@ -169,7 +169,7 @@ Albany State College (Albany, GA), 5698
 Alcoholism, 3030, 4092. 
 
 
-Alcorn A 8c M College (Lorman, MS), 328 
+Alcorn A & M College (Lorman, MS), 328 
 Alcorn State University (Lorman, MS), 329, 
 330, 382, 527, 2689, 4389, 6085, 6330 
 Alexander, Clifford, 3885 
@@ -487,7 +487,7 @@ Blues (Music), 8, 306, 673, 822, 928, 1134,
 6413. 
 
 
-Bluford Library, North Carolina A 8c T University (Greensboro, NC), 1146, 1147 
+Bluford Library, North Carolina A & T University (Greensboro, NC), 1146, 1147 
 Boarding school newsletter, 2063 
 Bondage, 896 
 Book dealers, 116, 1334 
@@ -513,7 +513,7 @@ Bordentown Manual Training School (Bor-
 dentown, NJ), 3223 
 Botany, 1260, 2756 
 Boys, 5062, 6374 
-Boy’s Clubs, 5430. 
+Boy's Clubs, 5430. 
 
 
 BoyzII Men, 1178 
@@ -738,12 +738,12 @@ Children, 129, 603, 695, 797, 799, 846, 1077,
 5728, 5845, 5912 
 Children—Education, 6230 
 Childrens clubs, 3181, 3237, 4345, 5272, 6060 
-Children’s music, 1231 
-Children’s newspapers, 3374, 3421 
-Children’s plays, 1231 
-Children’s poetry, 1231 
-Children’s programs, 1552 
-Children’s stories, 1231, 5420 
+Children's music, 1231 
+Children's newspapers, 3374, 3421 
+Children's plays, 1231 
+Children's poetry, 1231 
+Children's programs, 1552 
+Children's stories, 1231, 5420 
 Choral music, 3964 
 
 Christ Church Cathedral (Brooklyn, NY), 
@@ -760,7 +760,7 @@ Christiansburg Industrial Institute (Cambria, VA), 2494
 Christmas, 1571 
 Church leaders, 3322 
 Church of Christ, 3259, 5132 
-Church of Christ, ‘Holiness’, 5952 
+Church of Christ, 'Holiness', 5952 
 Church of God, 4751, 6514 
 Church of God and Saints of Christ, 6350 
 Church of God in Christ, 1916, 3087, 4775, 
@@ -1052,7 +1052,7 @@ Colleges and universities—Students, 7, 9, 14,
 634 
 
 
-Colleges and universities—Students (continued) 
+Colleges and universities—Students 
 
 4698, 4705, 4706, 4714, 4715, 4717, 4718, 
 4719, 4722, 4747, 4755, 4760, 4803, 4805, 
@@ -1173,7 +1173,7 @@ Computer science, 2153, 2410
 Concerned Howardites Against Militant Pressures, 1487 
 Concerts, 1453, 5186 
 
-Confederation of DeKalb’s Community Organizations (CODCO), 1883 
+Confederation of DeKalb's Community Organizations (CODCO), 1883 
 Conference of Presidents of Negro Land Grant Colleges, 4933 
 
 Confession stories, 1209, 1820, 2868, 3294, 
@@ -1248,7 +1248,7 @@ Criminal justice system, 1431
 Crispus Attucks High School (Indianapolis, IN), 556, 1721 
 Criticism, 1276 
 
-Crossroad Senior Citizen’s Organization, 4403 
+Crossroad Senior Citizen's Organization, 4403 
 Crossroads Theatre Company, 529 
 Culmer community (Miami, FL), 1894, 1895 
 Culture, 158, 180, 205, 209, 225, 235, 242, 
@@ -1684,7 +1684,7 @@ Fashion, 46, 111, 125, 268, 416, 467, 667, 668,
 Father Divine, 2210, 2249, 4238, 4310, 5583, 
 6492 
 
-Father Divine’s Kingdom and Peace Mission, 4238,4310 
+Father Divine's Kingdom and Peace Mission, 4238,4310 
 Fathers, 2597 
 Fayette County, TN, 4631 
 Fayette-Haywood Workcamps, TN, 2324 
@@ -1759,7 +1759,7 @@ Fitness, 697, 833, 1049, 2175, 2852, 3286,
 3378, 6073 
 
 Florida A & M University, Interscholastic Press Association (Tallahassee, FL), 6488 
-Florida A 8c M University (Tallahassee, FL), 
+Florida A & M University (Tallahassee, FL), 
 
 15, 1644, 2318 
 
@@ -1820,9 +1820,9 @@ Free African Liberation Organization (FALO),
 
 Free enterprise, 1225 
 
-Freedmen’s Hospital, Howard University, 564, 
+Freedmen's Hospital, Howard University, 564, 
 2497,2498,2500,2865 
-Freedmen’s Hospital School of Nursing Alumni Association, 2498 
+Freedmen's Hospital School of Nursing Alumni Association, 2498 
 Freedom Corps, 1987 
 
 Freedom Democratic Party, 2509, 3869, 4798 
@@ -2392,7 +2392,7 @@ Johnson (Lyndon) Administration, 3553
 Johnson C. Smith University (Charlotte, NC), 
 483, 3277, 4390 
 
-Johnson, William F. ‘Bunk’, 1296, 1297 
+Johnson, William F. 'Bunk', 1296, 1297 
 Journalism, 293, 593, 781, 892, 975, 1024, 
 
 1066,1747,1980, 2419, 2425, 2531, 2596, 
@@ -2436,10 +2436,10 @@ Kentucky Negro Educational Association,
 
 Kentucky State College (Frankfort, KY), 3414 
 Kimball High School (Kimball, WV), 3423 
-King Hiram’s Craftsmen Center (Vauxhall, NJ), 2907 
+King Hiram's Craftsmen Center (Vauxhall, NJ), 2907 
 
 King Jr., Martin Luther, 3495, 4535 
-King’s Deliverance Holiness Church, 1977 
+King's Deliverance Holiness Church, 1977 
 Knights and Daughters of Tabor, 5754 
 Knoxville College (Knoxville, TN), 566 
 Koinonia Farm, 3439 
@@ -2873,7 +2873,7 @@ Music, 1, 12, 29, 63, 145, 175, 254, 276, 277,
 642 
 
 
-Music (continued) 
+Music 
 
 5053, 5054, 5056, 5058, 5075, 5081, 5082, 
 5083, 5084, 5085, 5088, 5136, 5138, 5151, 
@@ -2909,7 +2909,7 @@ Musicians, 416, 1021, 1184, 1405, 3964, 4144,
 
 Musicians—Directories, 1185, 4575, 4650 
 Muslim religion, 334, 391, 442, 2248, 2846 
-Muslim Students’ Association of U.S.A. and Canada,334 
+Muslim Students' Association of U.S.A. and Canada,334 
 
 Mu-So-Lit Club (Washington, DC), 1960 
 Mutuality Warrior Corps, 3979 
@@ -2970,7 +2970,7 @@ National Association of Black Women Attorneys, 421, 4018
 National Association of Colored Graduate Nurses, 4093 
 
 National Association of Colored Women, 4096 
-National Association of Negro Business and Professional Women’s Clubs, 5122 
+National Association of Negro Business and Professional Women's Clubs, 5122 
 National Association of Negro Musicians, 4023,4181 
 
 National Association of Republican Women, 6464 
@@ -2998,13 +2998,13 @@ National Black MBA Association-Twin Cities Chapter, 3716
 
 National Black Media Coalition, 4937 
 National Black Music Caucus of MENC, 1778 
-National Black Nurses’ Association, 2861, 4124 
+National Black Nurses' Association, 2861, 4124 
 National Black Police Association, 4125 
 
 
 National Black Silent Majority Committee, 1011 
 
-National Black Sisters’ Conference, 5391 
+National Black Sisters' Conference, 5391 
 National Brotherhood of Skiers, 5416 
 National Business League, 3490, 3912 
 National Caucus and Center on Black Aged, 2629 
@@ -3050,7 +3050,7 @@ National Smelting Company, 4094
 National Student Coalition Against Racism, 4520 
 
 National Student Council, 3179 
-National Teachers’ Research Association, 5795 
+National Teachers' Research Association, 5795 
 National Technical Association, 3353, 4107, 
 4108 
 
@@ -3125,7 +3125,7 @@ Norfolk State University (Norfolk, VA), 1741,
 3076,3128, 4523, 4524, 4525, 4526, 4527 
 Norfolk Teachers Association, 6146 
 North Carolina A & T State University (Greensboro, NC), 17, 18, 19, 374, 4674 
-North Carolina A 8c T State University (Greensboro, NC), History Department, 2914 
+North Carolina A & T State University (Greensboro, NC), History Department, 2914 
 
 North Carolina Association of Black Lawyers, 4407 
 
@@ -3566,7 +3566,7 @@ Rap music, 1, 2, 63, 698, 1122, 1178, 1295,
 6020, 6089, 6483,6520 
 Rastafari movement, 5053, 5054, 5081 
 Real estate, 2987, 4025 
-Real People’s Party, 860 
+Real People's Party, 860 
 Recipes, 2196, 2860, 4964 
 Reconstruction, 4927 
 Record reviews, 3608 
@@ -3712,7 +3712,7 @@ Rutgers University (Camden, NJ), 176, 1076
 Safety, 5242 
 
 Saint John African Orthodox Church, 2275 
-Saint Paul’s College (Lawrenceville, VA), 4913, 
+Saint Paul's College (Lawrenceville, VA), 4913, 
 5207,5208, 5209, 5210, 5686, 5853 
 Sales, 4016 
 
@@ -3863,7 +3863,7 @@ Smithsonian Institution Resident Associate Program, 261
 Smoking, 2860 
 
 Snow Hill Normal and Industrial Institute (Snow Hill, AL), 773 
-Snyder Avenue Boy’s Club, 5430 
+Snyder Avenue Boy's Club, 5430 
 
 
 646 
@@ -3986,7 +3986,7 @@ Speeches, 872, 6196
 Spelman College (Atlanta, GA), 1366, 1379, 
 3153, 5571, 5572 
 
-Spelman College Women’s Research and Resource Center (Atlanta, GA), 5409 
+Spelman College Women's Research and Resource Center (Atlanta, GA), 5409 
 Spelman Seminary (Atlanta, GA), 533 
 Spencer High School (Columbus, GA), 5570 
 Spirit of Praise Outreach Ministry, 2752 
@@ -4011,9 +4011,9 @@ Sports, 6, 37, 52, 111, 145, 175, 252,416, 475,
 6134, 6135, 6392. 
 
 
-St. Augustine’s College (Raleigh, NC), 4760 
-St. Augustine’s Parish (Washington, DC), 5606 
-St. Augustine’s School (Raleigh, NC), 563 
+St. Augustine's College (Raleigh, NC), 4760 
+St. Augustine's Parish (Washington, DC), 5606 
+St. Augustine's School (Raleigh, NC), 563 
 St. Catherines community (Ontario, 
 
 Toronto), 110 
@@ -4025,8 +4025,8 @@ VA), 682
 St. James Presbyterian Church (New York, NY), 5608 
 
 
-St. Joseph’s College for Negro Catechists (Montgomery, AL), 3305 
-St. Joseph’s Foreign Missionary Society of the Sacred Heart, 426 
+St. Joseph's College for Negro Catechists (Montgomery, AL), 3305 
+St. Joseph's Foreign Missionary Society of the Sacred Heart, 426 
 
 St. Louis Black Repertory Company, 5665 
 St. Louis Urban League, 6109 
@@ -4036,9 +4036,9 @@ St. Paul African Methodist Episcopal Church, 2255
 St. Paul Normal and Industrial School (Lawrenceville, VA), 5511 
 St. Paul School (Lawrenceville, VA), 1380 
 St. Paul Urban League, 4346 
-St. Paul’s School (Concord, NH), 2935 
-St. Peter Claver’s Church, 1585 
-St. Philip’s Episcopal Church, 5621 
+St. Paul's School (Concord, NH), 2935 
+St. Peter Claver's Church, 1585 
+St. Philip's Episcopal Church, 5621 
 St. Stephen Baptist Church (Louisville, KY), 
 2700 
 
@@ -4267,7 +4267,7 @@ United States Congress, 815, 1451, 1786,
 
 3503, 3504, 4376, 4864 
 United States Department of Labor, 942 
-United States Junior Chamber of Commerce, Stateville ‘New Era’ Chapter, 5649 
+United States Junior Chamber of Commerce, Stateville 'New Era' Chapter, 5649 
 United Supreme Council Ancient and Accepted Scottish Rite of Freemasonry, 4422 
 Universal Life Insurance Company employees, 6005 
 
@@ -4424,7 +4424,7 @@ Washington Tech High School (St. Louis, MO), 5797
 Washington Urban League, 2229, 6086, 6124, 
 6307, 6308 
 
-W.B. Kennedy Lodge No. 3, L. 8c A.M.P.H.A., 
+W.B. Kennedy Lodge No. 3, L. & A.M.P.H.A., 
 1576 
 
 WDAO 1210 AM (Radio station), 5463 
@@ -4521,11 +4521,11 @@ Women pilots, 696
 Women prisoners, 4880 
 Women writers, 530 
 
-Women’s Auxilary of the National Medical Association, 3936 
+Women's Auxilary of the National Medical Association, 3936 
 
-Women’s clubs, 4096, 4481, 5448, 6462 
-Women’s studies, 5409, 6470, 6471 
-Women’s United Christian Fellowship, 6499 
+Women's clubs, 4096, 4481, 5448, 6462 
+Women's studies, 5409, 6470, 6471 
+Women's United Christian Fellowship, 6499 
 Woodworking, 6476 
 Work study, 1816 
 
@@ -4548,12 +4548,12 @@ Yale University (New Haven, CT), 9
 Yearbooks, 4170, 5402 
 Yoruba Cultural Center of New York, 4415 
 Young Black Programmers Coalition, 6531 
-Young Men’s Christian Association (YMCA), 
+Young Men's Christian Association (YMCA), 
 1418,2085, 2775, 3179, 3207, 4292, 4920, 
 5086,5297, 5298,6521, 6522, 6524, 6532, 
 6537, 6550 
 Young women, 336 
-Young Women’s Christian Association (YWCA), 824, 3207 
+Young Women's Christian Association (YWCA), 824, 3207 
 
 Youth, 6, 280, 336, 394, 427, 770, 1052, 1374, 
 1390,1656, 2030, 2135, 2528, 2786, 3846, 
@@ -4569,7 +4569,7 @@ Youth—Religous life, 3359
 Zeta Phi Beta Sorority, 482, 6516, 6555 
 Zimbabwe, 1597, 6553, 6556 
 Zimbabwe African National Union, 6553 
-Zimbabwe African People’s Union, 6556 
-Zimbabwe African People’s Union Student Branch in the U.S.A., 1597 
+Zimbabwe African People's Union, 6556 
+Zimbabwe African People's Union Student Branch in the U.S.A., 1597 
 Zion Temple M.B. Church, 6558 
 Zydeco music, 3608 

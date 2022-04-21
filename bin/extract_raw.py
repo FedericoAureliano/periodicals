@@ -12,76 +12,88 @@ with open("data/raw/publishers.txt") as f:
 with open("data/raw/subjects.txt") as f:
     subj = f.read()
 
+with open("data/raw/links.txt") as f:
+    links = f.read()
+    links = links.split("\n")
+
+def get_link(id):
+    for l in links:
+        prefix = l[:l.find(" : ")]
+        suffix = l[l.find("http"):]
+        if prefix == str(id):
+            return f"\"{suffix}\""
+    return ""
+
 MAX = 6562
 LOOKAHEAD = 100
 
 STATES = [
-    "Alabama STATE",
-    "Alaska STATE",
-    "Arizona STATE",
-    "Arkansas STATE",
-    "California STATE",
-    "Colorado STATE",
-    "Connecticut STATE",
-    "Delaware STATE",
-    "Florida STATE",
-    "Georgia STATE",
-    "Hawaii STATE",
-    "Idaho STATE",
-    "Illinois STATE",
-    "Indiana STATE",
-    "Iowa STATE",
-    "Kansas STATE",
-    "Kentucky STATE",
-    "Louisiana STATE",
-    "Maine STATE",
-    "Maryland STATE",
-    "Massachusetts STATE",
-    "Michigan STATE",
-    "Minnesota STATE",
-    "Mississippi STATE",
-    "Missouri STATE",
-    "Montana STATE",
-    "Nebraska STATE",
-    "Nevada STATE",
-    "New Hampshire STATE",
-    "New Jersey STATE",
-    "New Mexico STATE",
-    "New York STATE",
-    "North Carolina STATE",
-    "North Dakota STATE",
-    "Ohio STATE",
-    "Oklahoma STATE",
-    "Oregon STATE",
-    "Pennsylvania STATE",
-    "Rhode Island STATE",
-    "South Carolina STATE",
-    "South Dakota STATE",
-    "Tennessee STATE",
-    "Texas STATE",
-    "Utah STATE",
-    "Vermont STATE",
-    "Virginia STATE",
-    "Washington STATE",
-    "West Virginia STATE",
-    "Wisconsin STATE",
-    "Wyoming STATE",
-    "District of Columbia STATE",
+    "STATE Alabama STATE",
+    "STATE Alaska STATE",
+    "STATE Arizona STATE",
+    "STATE Arkansas STATE",
+    "STATE California STATE",
+    "STATE Colorado STATE",
+    "STATE Connecticut STATE",
+    "STATE Delaware STATE",
+    "STATE Florida STATE",
+    "STATE Georgia STATE",
+    "STATE Hawaii STATE",
+    "STATE Idaho STATE",
+    "STATE Illinois STATE",
+    "STATE Indiana STATE",
+    "STATE Iowa STATE",
+    "STATE Kansas STATE",
+    "STATE Kentucky STATE",
+    "STATE Louisiana STATE",
+    "STATE Maine STATE",
+    "STATE Maryland STATE",
+    "STATE Massachusetts STATE",
+    "STATE Michigan STATE",
+    "STATE Minnesota STATE",
+    "STATE Mississippi STATE",
+    "STATE Missouri STATE",
+    "STATE Montana STATE",
+    "STATE Nebraska STATE",
+    "STATE Nevada STATE",
+    "STATE New Hampshire STATE",
+    "STATE New Jersey STATE",
+    "STATE New Mexico STATE",
+    "STATE New York STATE",
+    "STATE North Carolina STATE",
+    "STATE North Dakota STATE",
+    "STATE Ohio STATE",
+    "STATE Oklahoma STATE",
+    "STATE Oregon STATE",
+    "STATE Pennsylvania STATE",
+    "STATE Rhode Island STATE",
+    "STATE South Carolina STATE",
+    "STATE South Dakota STATE",
+    "STATE Tennessee STATE",
+    "STATE Texas STATE",
+    "STATE Utah STATE",
+    "STATE Vermont STATE",
+    "STATE Virginia STATE",
+    "STATE Washington STATE",
+    "STATE West Virginia STATE",
+    "STATE Wisconsin STATE",
+    "STATE Wyoming STATE",
+    "STATE District of Columbia STATE",
 ]
 
 with open('data/bibliography.csv', 'w') as compiled:
     print("ID,Name,First,Last,City,State,Publisher,Subject,Link", file=compiled, flush=True)
 
+    print("ID#,Problem,Name")
     # For each ID
     for i in range(1, MAX+1):
-        print(i)
         # Find where the word "frequency" occurs after this ID
         p = re.compile("\n%s (.|[\n])*[Ff]requency" % (i))
         find_id_and_freq = p.search(text)
 
         if not find_id_and_freq:
             # if we can't find the word "frequency" occuring after this ID then go to the next
-            print("Failed at 1 for ID: %d" % i)
+            print("%d,frequency," % i, flush=True)
             continue
 
         start_of_id   = find_id_and_freq.start() + len(" %d " %i)
@@ -97,15 +109,15 @@ with open('data/bibliography.csv', 'w') as compiled:
 
         if start_of_date < 0:
             # we couldn't find a date, so go to the next ID
-            print("Failed at 2 for ID: %d" % i)
+            print("%d,start date," % i, flush=True)
             continue
         if start_of_freq < 0:
             # we couldn't find a frequency, so go to the next ID
-            print("Failed at 3 for ID: %d" % i)
+            print("%d,frequency," % i, flush=True)
             continue
         if date_dash < 0:
             # we couldn't find a dash between years, so go to the next ID
-            print("Failed at 4 for ID: %d" % i)
+            print("%d,end date," % i, flush=True)
             continue
 
         name = text[start_of_id:start_of_date].replace('\n', '')
@@ -118,13 +130,18 @@ with open('data/bibliography.csv', 'w') as compiled:
         first = text[start_of_date:date_dash].replace(' ', '').replace('.', '').replace('-', '').replace('?', '').replace('\n', '')
         last = text[date_dash:start_of_freq].replace(' ', '').replace('.', '').replace('-', '').replace('?', '').replace('\n', '')
 
+        if len(first) != 4:
+            # start year doesn't make sense
+            print("%d,start date," % i, flush=True)
+            continue
+
         # now let's find the city and state
         r = re.compile("[\s,]%d[\s,]" % (i))
         id_in_geo = r.search(geo)
 
         if not id_in_geo:
             # couldn't find ID in geo, go to next ID
-            print("Failed at 5 for ID: %d" % i)
+            print("%d,geography,\"%s\"" % (i, name), flush=True)
             continue
 
         id_start = id_in_geo.start()
@@ -151,7 +168,7 @@ with open('data/bibliography.csv', 'w') as compiled:
 
         if best < 0:
             # couldn't find a state, go to next ID
-            print("Failed at 6 for ID: %d" % i)
+            print("%d,state,\"%s\"" % (i, name), flush=True)
             continue
 
         # Now let's find the publisher
@@ -167,7 +184,7 @@ with open('data/bibliography.csv', 'w') as compiled:
             publisher_match = re_publisher_name.search(reverse_starting_at_id)
             if not publisher_match:
                 # couldn't find publisher, go to next ID
-                print("Failed at 7 for ID: %d" % i)
+                print("%d,publisher,\"%s\"" % (i, name), flush=True)
                 continue
 
             publisher_start = publisher_match.start()
@@ -193,7 +210,7 @@ with open('data/bibliography.csv', 'w') as compiled:
             subject_match = re_subject_name.search(reverse_starting_at_id)
             if not subject_match:
                 # couldn't find subject, go to next ID
-                print("Failed at 8 for ID: %d" % i)
+                print("%d,topic,\"%s\"" % (i, name), flush=True)
                 continue
 
             subject_start = subject_match.start()
@@ -206,4 +223,4 @@ with open('data/bibliography.csv', 'w') as compiled:
 
             subject = tmp_subject + " | " + subject if subject else tmp_subject
 
-        print("%d,\"%s\",%s,%s,\"%s\",\"%s\",\"%s\",\"%s\"," %(i, name, first, last, city, state[:-len(" STATE")], publisher, subject), file=compiled, flush=True)
+        print("%d,\"%s\",%s,%s,\"%s\",\"%s\",\"%s\",\"%s\",%s" %(i, name, first, last, city, state[len("STATE "):-len(" STATE")], publisher, subject, get_link(i)), file=compiled, flush=True)

@@ -16,12 +16,12 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.2999,-90.1843,"Jackson","Mississippi","All","All",83,0
 32.2999,-90.1843,"Jackson","Mississippi","All","1970",23,0
 32.2999,-90.1843,"Jackson","Mississippi","All","1980",28,0
-40.74838,-73.996705,"New York","New York","All","All",653,2
-40.74838,-73.996705,"New York","New York","All","1960",105,0
+40.74838,-73.996705,"New York","New York","All","All",641,2
+40.74838,-73.996705,"New York","New York","All","1960",101,0
 40.74838,-73.996705,"New York","New York","Education","1960",14,0
 40.74838,-73.996705,"New York","New York","History","1960",6,0
 40.74838,-73.996705,"New York","New York","Poetry","1960",14,0
-40.74838,-73.996705,"New York","New York","All","1970",147,0
+40.74838,-73.996705,"New York","New York","All","1970",145,0
 40.74838,-73.996705,"New York","New York","Education","1970",18,0
 40.74838,-73.996705,"New York","New York","History","1970",5,0
 40.74838,-73.996705,"New York","New York","Poetry","1970",15,0
@@ -58,7 +58,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.780595,-122.216587,"Oakland","California","All","1990",4,0
 37.780595,-122.216587,"Oakland","California","Education","1990",1,0
 37.780595,-122.216587,"Oakland","California","Education","All",4,0
-38.912217,-77.017691,"Washington","District of Columbia","All","1990",101,0
+38.912217,-77.017691,"Washington","District of Columbia","All","1990",99,0
 41.510183,-87.740648,"Matteson","Illinois","All","All",1,0
 41.510183,-87.740648,"Matteson","Illinois","All","1990",1,0
 29.960484,-90.075301,"New Orleans","Louisiana","All","1990",15,0
@@ -66,27 +66,24 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 29.960484,-90.075301,"New Orleans","Louisiana","History","All",8,0
 38.912217,-77.017691,"Washington","District of Columbia","History","1980",6,0
 38.912217,-77.017691,"Washington","District of Columbia","History","All",25,0
-38.912217,-77.017691,"Washington","District of Columbia","All","1960",64,0
-38.912217,-77.017691,"Washington","District of Columbia","All","1970",141,0
+38.912217,-77.017691,"Washington","District of Columbia","All","1960",66,0
+38.912217,-77.017691,"Washington","District of Columbia","All","1970",142,0
 44.983473,-93.268251,"Minneapolis","Minnesota","All","All",35,0
 44.983473,-93.268251,"Minneapolis","Minnesota","All","1960",4,0
 44.983473,-93.268251,"Minneapolis","Minnesota","Music","1960",1,0
 44.983473,-93.268251,"Minneapolis","Minnesota","Music","All",2,0
 29.201168,-81.037071,"Daytona Beach","Florida","All","All",21,0
 29.201168,-81.037071,"Daytona Beach","Florida","All","1980",3,0
-40.74838,-73.996705,"New York","New York","All","1980",124,0
+40.74838,-73.996705,"New York","New York","All","1980",120,0
 32.790439,-96.80439,"Dallas","Texas","All","All",50,0
 32.790439,-96.80439,"Dallas","Texas","All","1990",12,0
-42.357603,-71.068432,"Boston","Massachusetts","All","All",60,0
-42.357603,-71.068432,"Boston","Massachusetts","All","1970",6,0
-42.357603,-71.068432,"Boston","Massachusetts","Art","1970",1,0
-42.357603,-71.068432,"Boston","Massachusetts","Art","All",3,0
 33.7564,-84.3918,"Atlanta","Georgia","All","All",205,0
 33.7564,-84.3918,"Atlanta","Georgia","All","1930",11,0
+42.357603,-71.068432,"Boston","Massachusetts","All","All",59,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1990",14,0
 42.357603,-71.068432,"Boston","Massachusetts","Poetry","1990",1,0
 42.357603,-71.068432,"Boston","Massachusetts","Poetry","All",6,0
-41.885847,-87.618123,"Chicago","Illinois","All","All",346,0
+41.885847,-87.618123,"Chicago","Illinois","All","All",345,0
 41.885847,-87.618123,"Chicago","Illinois","All","1930",22,0
 41.885847,-87.618123,"Chicago","Illinois","Poetry","1930",2,0
 41.885847,-87.618123,"Chicago","Illinois","Poetry","All",24,0
@@ -107,8 +104,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 43.1683,-77.6026,"Rochester","New York","Music","All",1,0
 43.1683,-77.6026,"Rochester","New York","Poetry","All",1,0
 38.912217,-77.017691,"Washington","District of Columbia","Poetry","1970",12,0
-38.912217,-77.017691,"Washington","District of Columbia","Poetry","All",30,0
-39.29463,-76.625203,"Baltimore","Maryland","All","All",72,0
+38.912217,-77.017691,"Washington","District of Columbia","Poetry","All",31,0
+39.29463,-76.625203,"Baltimore","Maryland","All","All",71,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1980",18,0
 42.6525,-73.7566,"Albany","New York","All","All",11,0
 42.6525,-73.7566,"Albany","New York","All","1980",6,0
@@ -120,16 +117,16 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.524398,-92.715785,"Grambling","Louisiana","All","All",29,0
 32.524398,-92.715785,"Grambling","Louisiana","All","1970",7,0
 32.524398,-92.715785,"Grambling","Louisiana","All","1980",10,0
-37.220001,-77.432594,"Petersburg","Virginia","All","All",32,0
+37.220001,-77.432594,"Petersburg","Virginia","All","All",30,0
 37.220001,-77.432594,"Petersburg","Virginia","All","1980",12,0
 38.912217,-77.017691,"Washington","District of Columbia","Art","1980",9,0
-38.912217,-77.017691,"Washington","District of Columbia","Art","All",29,0
+38.912217,-77.017691,"Washington","District of Columbia","Art","All",30,0
 33.451,-112.0685,"Phoenix","Arizona","All","All",9,0
 33.451,-112.0685,"Phoenix","Arizona","All","1980",2,0
 33.451,-112.0685,"Phoenix","Arizona","Science","1980",1,0
 33.451,-112.0685,"Phoenix","Arizona","Science","All",1,0
-33.973093,-118.247896,"Los Angeles","California","All","All",178,0
-33.973093,-118.247896,"Los Angeles","California","All","1990",44,0
+33.973093,-118.247896,"Los Angeles","California","All","All",169,0
+33.973093,-118.247896,"Los Angeles","California","All","1990",39,0
 33.973093,-118.247896,"Los Angeles","California","Art","1990",5,0
 33.973093,-118.247896,"Los Angeles","California","Art","All",11,0
 40.694021,-73.99034,"Brooklyn","New York","All","All",94,0
@@ -168,20 +165,20 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 29.7652,-95.3657,"Houston","Texas","Poetry","1960",2,0
 29.7652,-95.3657,"Houston","Texas","Poetry","All",4,0
 29.201168,-81.037071,"Daytona Beach","Florida","All","1970",6,0
-36.167028,-86.778441,"Nashville","Tennessee","All","All",116,0
+36.167028,-86.778441,"Nashville","Tennessee","All","All",117,0
 36.167028,-86.778441,"Nashville","Tennessee","All","1980",12,0
 32.3743,-86.3118,"Montgomery","Alabama","All","All",37,0
 32.3743,-86.3118,"Montgomery","Alabama","All","1870",2,0
-41.873996,-72.272774,"Willington","Connecticut","All","All",19,0
-41.873996,-72.272774,"Willington","Connecticut","All","1880",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1890",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1900",2,0
-42.347429,-83.060398,"Detroit","Michigan","All","All",81,0
+39.737752,-75.549658,"Wilmington","Delaware","All","All",19,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1880",1,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1890",1,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1900",2,0
+42.347429,-83.060398,"Detroit","Michigan","All","All",82,0
 42.347429,-83.060398,"Detroit","Michigan","All","1940",10,0
 42.347429,-83.060398,"Detroit","Michigan","Civil rights","1940",3,0
 42.347429,-83.060398,"Detroit","Michigan","Civil rights","All",8,0
 40.74838,-73.996705,"New York","New York","Civil rights","1970",9,0
-40.74838,-73.996705,"New York","New York","Civil rights","All",43,0
+40.74838,-73.996705,"New York","New York","Civil rights","All",42,0
 40.74838,-73.996705,"New York","New York","All","1920",40,0
 39.80004,-89.649531,"Springfield","Illinois","All","All",12,0
 39.80004,-89.649531,"Springfield","Illinois","All","1890",3,0
@@ -206,7 +203,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.7564,-84.3918,"Atlanta","Georgia","All","1960",42,0
 40.74838,-73.996705,"New York","New York","Civil rights","1990",1,0
 41.885847,-87.618123,"Chicago","Illinois","All","1990",78,0
-40.74838,-73.996705,"New York","New York","All","1940",51,0
+40.74838,-73.996705,"New York","New York","All","1940",50,0
 38.95063,-76.934652,"Hyattsville","Maryland","All","1980",5,0
 39.716111,-83.877778,"Wilberforce","Ohio","All","1990",5,0
 41.885847,-87.618123,"Chicago","Illinois","All","1970",60,0
@@ -265,7 +262,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 42.347429,-83.060398,"Detroit","Michigan","History","1990",2,0
 42.347429,-83.060398,"Detroit","Michigan","Art","All",3,0
 42.347429,-83.060398,"Detroit","Michigan","History","All",5,0
-33.973093,-118.247896,"Los Angeles","California","All","1960",28,0
+33.973093,-118.247896,"Los Angeles","California","All","1960",27,0
 33.973093,-118.247896,"Los Angeles","California","Art","1960",2,0
 42.377017,-72.51565,"Amherst","Massachusetts","All","All",6,0
 42.377017,-72.51565,"Amherst","Massachusetts","All","1980",2,0
@@ -276,11 +273,11 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 42.377017,-72.51565,"Amherst","Massachusetts","Poetry","1990",1,0
 42.377017,-72.51565,"Amherst","Massachusetts","History","All",3,0
 42.377017,-72.51565,"Amherst","Massachusetts","Poetry","All",2,0
-33.973093,-118.247896,"Los Angeles","California","All","1980",39,0
+33.973093,-118.247896,"Los Angeles","California","All","1980",36,0
 42.726,-87.7825,"Racine","Wisconsin","All","All",6,0
 42.726,-87.7825,"Racine","Wisconsin","All","1990",2,0
 40.74838,-73.996705,"New York","New York","Art","1960",4,0
-40.74838,-73.996705,"New York","New York","Art","All",41,1
+40.74838,-73.996705,"New York","New York","Art","All",40,1
 32.790439,-96.80439,"Dallas","Texas","Music","1990",3,0
 32.790439,-96.80439,"Dallas","Texas","Music","All",3,0
 31.567783,-84.161923,"Albany","Georgia","All","All",5,0
@@ -294,7 +291,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.431027,-77.654458,"Midlothian","Virginia","History","1990",1,0
 37.431027,-77.654458,"Midlothian","Virginia","History","All",1,0
 38.912217,-77.017691,"Washington","District of Columbia","All","1820",3,0
-40.74838,-73.996705,"New York","New York","All","1950",43,0
+40.74838,-73.996705,"New York","New York","All","1950",41,0
 40.444025,-86.923661,"West Lafayette","Indiana","All","All",7,0
 40.444025,-86.923661,"West Lafayette","Indiana","All","1980",4,0
 38.837717,-76.798028,"Upper Marlboro","Maryland","All","All",2,0
@@ -307,7 +304,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 35.2269,-80.8433,"Charlotte","North Carolina","All","All",20,0
 35.2269,-80.8433,"Charlotte","North Carolina","All","1990",3,0
 38.912217,-77.017691,"Washington","District of Columbia","All","1950",34,0
-40.1162,-75.0141,"Philadelphia","Pennsylvania","All","All",124,1
+40.1162,-75.0141,"Philadelphia","Pennsylvania","All","All",125,1
 40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1820",1,0
 41.168343,-96.209633,"Omaha","Nebraska","All","All",18,0
 41.168343,-96.209633,"Omaha","Nebraska","All","1980",3,0
@@ -319,7 +316,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","All","1860",4,1
 38.912217,-77.017691,"Washington","District of Columbia","All","1870",5,0
 38.912217,-77.017691,"Washington","District of Columbia","All","1880",8,0
-38.912217,-77.017691,"Washington","District of Columbia","All","1890",10,0
+38.912217,-77.017691,"Washington","District of Columbia","All","1890",9,0
 42.738805,-84.476409,"East Lansing","Michigan","All","1970",1,0
 40.74838,-73.996705,"New York","New York","Music","1940",2,0
 40.74838,-73.996705,"New York","New York","Music","1950",4,0
@@ -339,8 +336,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.696811,-74.228065,"Hillside","New Jersey","All","1990",1,0
 38.996303,-76.929891,"College Park","Maryland","All","All",4,0
 38.996303,-76.929891,"College Park","Maryland","All","1980",2,0
-40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1990",34,0
-38.912217,-77.017691,"Washington","District of Columbia","History","1990",7,0
+40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1990",35,0
+38.912217,-77.017691,"Washington","District of Columbia","History","1990",6,0
 47.2764,-122.7583,"Tacoma","Washington","All","All",6,0
 47.2764,-122.7583,"Tacoma","Washington","All","1990",1,0
 33.7564,-84.3918,"Atlanta","Georgia","All","1970",40,0
@@ -372,11 +369,11 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.827137,-88.925984,"Decatur","Illinois","All","1990",1,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","All","All",59,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","All","1990",12,0
-38.938176,-92.304865,"Columbia","Missouri","All","All",10,0
+38.938176,-92.304865,"Columbia","Missouri","All","All",9,0
 38.938176,-92.304865,"Columbia","Missouri","All","1990",6,0
 38.912217,-77.017691,"Washington","District of Columbia","Art","1970",11,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1880",3,0
-40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1890",3,0
+40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1890",4,0
 26.121561,-80.128778,"Fort Lauderdale","Florida","All","All",4,0
 26.121561,-80.128778,"Fort Lauderdale","Florida","All","1990",3,0
 26.121561,-80.128778,"Fort Lauderdale","Florida","Health","1990",1,0
@@ -393,7 +390,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 35.2269,-80.8433,"Charlotte","North Carolina","All","1910",4,0
 35.2269,-80.8433,"Charlotte","North Carolina","All","1920",4,0
 35.2269,-80.8433,"Charlotte","North Carolina","All","1930",4,0
-40.6913,-73.8061,"Jamaica","New York","All","All",14,0
+40.6913,-73.8061,"Jamaica","New York","All","All",15,0
 40.6913,-73.8061,"Jamaica","New York","All","1990",5,0
 40.6913,-73.8061,"Jamaica","New York","Art","1990",1,0
 40.6913,-73.8061,"Jamaica","New York","Culture","1990",1,0
@@ -406,7 +403,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.8691,-122.2696,"Berkeley","California","History","All",6,0
 37.8691,-122.2696,"Berkeley","California","Poetry","1990",3,0
 37.8691,-122.2696,"Berkeley","California","Poetry","All",13,0
-30.450731,-91.186954,"Baton Rouge","Louisiana","All","All",73,0
+30.450731,-91.186954,"Baton Rouge","Louisiana","All","All",72,0
 30.450731,-91.186954,"Baton Rouge","Louisiana","All","1970",14,0
 30.450731,-91.186954,"Baton Rouge","Louisiana","Poetry","1970",1,0
 30.450731,-91.186954,"Baton Rouge","Louisiana","Poetry","All",1,0
@@ -417,7 +414,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 36.8466,-76.2855,"Norfolk","Virginia","All","1910",1,0
 40.109522,-88.203631,"Urbana","Illinois","All","All",7,0
 40.109522,-88.203631,"Urbana","Illinois","All","1980",5,0
-40.694021,-73.99034,"Brooklyn","New York","All","1980",36,0
+40.694021,-73.99034,"Brooklyn","New York","All","1980",35,0
 33.973093,-118.247896,"Los Angeles","California","Culture","1980",1,0
 33.973093,-118.247896,"Los Angeles","California","History","1980",2,0
 33.973093,-118.247896,"Los Angeles","California","Culture","All",3,0
@@ -432,7 +429,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.733894,-118.291425,"San Pedro","California","Poetry","All",1,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1890",5,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1900",3,0
-39.29463,-76.625203,"Baltimore","Maryland","All","1910",8,0
+39.29463,-76.625203,"Baltimore","Maryland","All","1910",7,0
 44.983473,-93.268251,"Minneapolis","Minnesota","All","1890",6,0
 44.983473,-93.268251,"Minneapolis","Minnesota","All","1900",3,0
 31.7567,-85.9993,"Troy","Alabama","All","All",1,0
@@ -465,11 +462,11 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","Culture","1980",5,0
 38.912217,-77.017691,"Washington","District of Columbia","Culture","All",10,0
 40.7308,-74.1744,"Newark","New Jersey","All","All",29,0
-40.7308,-74.1744,"Newark","New Jersey","All","1960",6,0
+40.7308,-74.1744,"Newark","New Jersey","All","1960",7,0
 40.7308,-74.1744,"Newark","New Jersey","Poetry","1960",2,0
 40.7308,-74.1744,"Newark","New Jersey","Poetry","All",3,0
 39.775006,-86.109348,"Indianapolis","Indiana","All","All",32,1
-39.775006,-86.109348,"Indianapolis","Indiana","All","1970",5,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1970",4,0
 39.775006,-86.109348,"Indianapolis","Indiana","Art","1970",1,0
 39.775006,-86.109348,"Indianapolis","Indiana","Health","1970",1,0
 39.775006,-86.109348,"Indianapolis","Indiana","History","1970",1,0
@@ -488,8 +485,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 43.0459,-76.1528,"Syracuse","New York","All","1970",3,0
 43.0459,-76.1528,"Syracuse","New York","Poetry","1970",1,0
 43.0459,-76.1528,"Syracuse","New York","Poetry","All",1,0
-38.912217,-77.017691,"Washington","District of Columbia","Art","1960",3,0
-38.912217,-77.017691,"Washington","District of Columbia","Poetry","1960",3,0
+38.912217,-77.017691,"Washington","District of Columbia","Art","1960",4,0
+38.912217,-77.017691,"Washington","District of Columbia","Poetry","1960",4,0
 37.413156,-94.70225,"Pittsburg","Kansas","All","All",3,0
 37.413156,-94.70225,"Pittsburg","Kansas","All","1910",2,0
 41.168343,-96.209633,"Omaha","Nebraska","All","1890",3,0
@@ -521,7 +518,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.057951,-76.460722,"Newport News","Virginia","Science","All",1,0
 28.539882,-81.372668,"Orlando","Florida","All","1970",3,0
 39.746931,-105.062036,"Denver","Colorado","All","All",15,0
-39.746931,-105.062036,"Denver","Colorado","All","1980",4,0
+39.746931,-105.062036,"Denver","Colorado","All","1980",3,0
 39.746931,-105.062036,"Denver","Colorado","Health","1980",1,0
 39.746931,-105.062036,"Denver","Colorado","Music","1980",1,0
 39.746931,-105.062036,"Denver","Colorado","Poetry","1980",1,0
@@ -591,7 +588,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.3743,-86.3118,"Montgomery","Alabama","Education","1950",1,0
 32.3743,-86.3118,"Montgomery","Alabama","All","1960",2,0
 33.401559,-86.705511,"Birmingham","Alabama","All","1940",5,0
-40.74838,-73.996705,"New York","New York","Art","1970",14,0
+40.74838,-73.996705,"New York","New York","Art","1970",13,0
 40.74838,-73.996705,"New York","New York","Music","1970",13,0
 40.444025,-86.923661,"West Lafayette","Indiana","All","1990",3,0
 61.211571,-149.876077,"Anchorage","Alaska","All","All",3,0
@@ -635,8 +632,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.502545,-80.859282,"Orangeburg","South Carolina","All","1940",2,0
 33.502545,-80.859282,"Orangeburg","South Carolina","Education","1940",1,0
 33.502545,-80.859282,"Orangeburg","South Carolina","Education","All",2,0
-33.973093,-118.247896,"Los Angeles","California","Music","1990",7,0
-33.973093,-118.247896,"Los Angeles","California","Music","All",16,0
+33.973093,-118.247896,"Los Angeles","California","Music","1990",6,0
+33.973093,-118.247896,"Los Angeles","California","Music","All",14,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","Poetry","1990",3,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","Poetry","All",12,0
 25.779,-80.1982,"Miami","Florida","All","All",52,0
@@ -693,8 +690,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","Education","1980",6,0
 39.115733,-94.627139,"Kansas City","Kansas","All","All",16,0
 39.115733,-94.627139,"Kansas City","Kansas","All","1880",1,0
-39.115733,-94.627139,"Kansas City","Kansas","All","1890",4,0
-39.115733,-94.627139,"Kansas City","Kansas","All","1900",2,0
+39.115733,-94.627139,"Kansas City","Kansas","All","1890",5,0
+39.115733,-94.627139,"Kansas City","Kansas","All","1900",3,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1870",1,0
 41.885847,-87.618123,"Chicago","Illinois","All","1940",39,0
 41.885847,-87.618123,"Chicago","Illinois","Civil rights","1940",6,0
@@ -710,7 +707,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 36.167028,-86.778441,"Nashville","Tennessee","All","1990",11,0
 36.167028,-86.778441,"Nashville","Tennessee","Music","1990",2,0
 36.167028,-86.778441,"Nashville","Tennessee","Music","All",4,0
-34.748342,-92.281939,"Little Rock","Arkansas","All","All",20,0
+34.748342,-92.281939,"Little Rock","Arkansas","All","All",21,0
 34.748342,-92.281939,"Little Rock","Arkansas","All","1880",4,0
 34.748342,-92.281939,"Little Rock","Arkansas","All","1890",3,0
 34.748342,-92.281939,"Little Rock","Arkansas","All","1900",3,0
@@ -720,10 +717,10 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 41.885847,-87.618123,"Chicago","Illinois","History","All",15,0
 40.74838,-73.996705,"New York","New York","All","1870",3,0
 40.74838,-73.996705,"New York","New York","All","1880",6,0
-40.74838,-73.996705,"New York","New York","All","1890",4,0
+40.74838,-73.996705,"New York","New York","All","1890",3,0
 40.74838,-73.996705,"New York","New York","All","1900",12,0
 40.74838,-73.996705,"New York","New York","All","1910",20,0
-40.74838,-73.996705,"New York","New York","All","1930",52,0
+40.74838,-73.996705,"New York","New York","All","1930",50,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1910",5,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","Education","1910",1,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","Music","1910",1,0
@@ -743,7 +740,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.74838,-73.996705,"New York","New York","Education","1950",3,0
 38.912217,-77.017691,"Washington","District of Columbia","Music","1980",3,0
 38.912217,-77.017691,"Washington","District of Columbia","Music","All",22,0
-39.746931,-105.062036,"Denver","Colorado","All","1950",1,0
+39.746931,-105.062036,"Denver","Colorado","All","1950",2,0
 38.791143,-77.076608,"Alexandria","Virginia","All","All",8,0
 38.791143,-77.076608,"Alexandria","Virginia","All","1990",7,0
 29.960484,-90.075301,"New Orleans","Louisiana","Culture","1990",2,0
@@ -759,7 +756,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","Poetry","1990",5,0
 38.912217,-77.017691,"Washington","District of Columbia","Science","1990",2,0
 38.912217,-77.017691,"Washington","District of Columbia","Science","All",6,0
-33.973093,-118.247896,"Los Angeles","California","All","1970",41,0
+33.973093,-118.247896,"Los Angeles","California","All","1970",38,0
 40.74838,-73.996705,"New York","New York","Art","1850",1,1
 40.74838,-73.996705,"New York","New York","History","1850",1,1
 40.74838,-73.996705,"New York","New York","Poetry","1850",2,1
@@ -780,7 +777,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 26.78, -80.067222,"Riviera Beach","Florida","All","All",1,0
 26.78, -80.067222,"Riviera Beach","Florida","All","1990",1,0
 40.74838,-73.996705,"New York","New York","Civil rights","1960",20,0
-39.775006,-86.109348,"Indianapolis","Indiana","All","1990",8,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1990",7,0
 40.773874,-80.767553,"New Lisbon","Ohio","All","All",1,0
 40.773874,-80.767553,"New Lisbon","Ohio","All","1840",1,0
 40.773874,-80.767553,"New Lisbon","Ohio","All","1850",1,0
@@ -797,8 +794,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.366411,-74.431727,"Atlantic City","New Jersey","Poetry","1920",1,0
 39.366411,-74.431727,"Atlantic City","New Jersey","Poetry","All",1,0
 33.973093,-118.247896,"Los Angeles","California","All","1900",5,0
-27.9428,-82.4549,"Tampa","Florida","All","All",10,0
-27.9428,-82.4549,"Tampa","Florida","All","1980",2,0
 41.885847,-87.618123,"Chicago","Illinois","All","1880",3,0
 41.885847,-87.618123,"Chicago","Illinois","All","1890",4,0
 41.885847,-87.618123,"Chicago","Illinois","All","1900",8,0
@@ -823,7 +818,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.451,-112.0685,"Phoenix","Arizona","All","1960",2,0
 32.213873,-110.969445,"Tucson","Arizona","All","All",2,0
 32.213873,-110.969445,"Tucson","Arizona","All","1920",1,0
-34.748342,-92.281939,"Little Rock","Arkansas","All","1970",4,0
+34.748342,-92.281939,"Little Rock","Arkansas","All","1970",5,0
 34.215405,-91.995812,"Pine Bluff","Arkansas","All","1960",1,0
 34.748342,-92.281939,"Little Rock","Arkansas","All","1860",1,0
 34.748342,-92.281939,"Little Rock","Arkansas","All","1870",1,0
@@ -839,8 +834,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.748342,-92.281939,"Little Rock","Arkansas","Poetry","All",1,0
 37.8691,-122.2696,"Berkeley","California","All","1970",10,0
 38.912217,-77.017691,"Washington","District of Columbia","All","1920",34,0
-41.873996,-72.272774,"Willington","Connecticut","All","1950",2,0
-41.873996,-72.272774,"Willington","Connecticut","All","1960",2,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1950",1,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1960",3,0
 38.546212,-92.152462,"Jefferson City","Missouri","Art","1980",1,0
 38.546212,-92.152462,"Jefferson City","Missouri","Science","1980",1,0
 38.546212,-92.152462,"Jefferson City","Missouri","Art","All",1,0
@@ -857,8 +852,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.61978,-74.425298,"Plainfield","New Jersey","Art","All",1,0
 42.448497,-76.492911,"Ithaca","New York","Education","1980",1,0
 42.448497,-76.492911,"Ithaca","New York","Education","All",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","All","All",4,0
-40.907863,-73.837961,"Mt. Vernon","New York","All","1980",2,0
+40.907863,-73.837961,"Mount Vernon","New York","All","All",4,0
+40.907863,-73.837961,"Mount Vernon","New York","All","1980",2,0
 40.74838,-73.996705,"New York","New York","History","1980",7,0
 32.643901,-95.222015,"Hawkins","Texas","All","All",11,0
 32.643901,-95.222015,"Hawkins","Texas","All","1990",5,0
@@ -906,7 +901,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.7564,-84.3918,"Atlanta","Georgia","Health","1930",1,0
 33.7564,-84.3918,"Atlanta","Georgia","Health","1940",4,0
 33.7564,-84.3918,"Atlanta","Georgia","Health","All",14,0
-39.775006,-86.109348,"Indianapolis","Indiana","All","1930",5,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1930",4,0
 39.140057,-86.508262,"Bloomington","Indiana","All","All",5,0
 39.140057,-86.508262,"Bloomington","Indiana","All","1980",3,0
 33.460084,-81.972959,"Augusta","Georgia","All","All",14,0
@@ -926,21 +921,21 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.780595,-122.216587,"Oakland","California","All","1960",10,1
 34.176681,-97.134157,"Ardmore","Oklahoma","All","All",4,0
 34.176681,-97.134157,"Ardmore","Oklahoma","All","1900",4,0
-39.775006,-86.109348,"Indianapolis","Indiana","All","1980",7,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1980",6,0
 39.775006,-86.109348,"Indianapolis","Indiana","History","1980",2,0
 32.779506,-79.937069,"Charleston","South Carolina","All","1980",1,0
 32.779506,-79.937069,"Charleston","South Carolina","All","1930",2,0
 40.74838,-73.996705,"New York","New York","Music","1990",9,0
 41.885847,-87.618123,"Chicago","Illinois","Art","1970",1,0
 41.885847,-87.618123,"Chicago","Illinois","Music","1970",3,0
-40.694021,-73.99034,"Brooklyn","New York","All","1970",24,0
+40.694021,-73.99034,"Brooklyn","New York","All","1970",25,0
 35.0337,-89.9343,"Memphis","Tennessee","All","1980",3,0
 35.386611,-119.017063,"Bakersfield","California","All","All",2,0
 35.386611,-119.017063,"Bakersfield","California","All","1970",1,0
 40.474536,-79.952524,"Pittsburgh","Pennsylvania","All","1950",2,0
 37.8691,-122.2696,"Berkeley","California","All","1960",9,0
-40.74838,-73.996705,"New York","New York","Health","1990",7,0
-40.74838,-73.996705,"New York","New York","Health","All",22,0
+40.74838,-73.996705,"New York","New York","Health","1990",6,0
+40.74838,-73.996705,"New York","New York","Health","All",20,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1950",4,0
 39.29463,-76.625203,"Baltimore","Maryland","All","1960",3,0
 38.996860,-76.966755,"Adelphi","Maryland","All","All",2,0
@@ -969,7 +964,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.213876,-94.63318,"Kansas City","Missouri","All","All",30,0
 39.213876,-94.63318,"Kansas City","Missouri","All","1910",5,0
 39.213876,-94.63318,"Kansas City","Missouri","All","1920",4,0
-36.167028,-86.778441,"Nashville","Tennessee","All","1950",16,0
+36.167028,-86.778441,"Nashville","Tennessee","All","1950",17,0
 36.167028,-86.778441,"Nashville","Tennessee","Poetry","1950",1,0
 38.141232,-81.281354,"Montgomery","West Virginia","All","All",1,0
 38.141232,-81.281354,"Montgomery","West Virginia","All","1920",1,0
@@ -992,7 +987,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 30.093056,-95.9875,"Prairie View","Texas","All","1940",5,0
 30.093056,-95.9875,"Prairie View","Texas","All","1950",3,0
 36.069741,-79.768151,"Greensboro","North Carolina","All","1970",9,0
-42.357603,-71.068432,"Boston","Massachusetts","All","1960",8,0
+42.357603,-71.068432,"Boston","Massachusetts","All","1960",7,0
 42.357603,-71.068432,"Boston","Massachusetts","History","1960",1,0
 42.357603,-71.068432,"Boston","Massachusetts","History","All",6,0
 37.780595,-122.216587,"Oakland","California","All","1980",14,0
@@ -1027,17 +1022,13 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 35.651498,-80.488945,"Salisbury","North Carolina","Poetry","1960",1,0
 35.651498,-80.488945,"Salisbury","North Carolina","Art","All",1,0
 35.651498,-80.488945,"Salisbury","North Carolina","Poetry","All",1,0
-42.384694,-82.924394,"Grosse Pointe","Michigan","All","All",1,0
-42.384694,-82.924394,"Grosse Pointe","Michigan","All","1990",1,0
-42.384694,-82.924394,"Grosse Pointe","Michigan","Comic","1990",1,0
-42.384694,-82.924394,"Grosse Pointe","Michigan","Comic","All",1,0
 33.973093,-118.247896,"Los Angeles","California","Music","1980",3,0
 32.4335,-80.6728,"Beaufort","South Carolina","All","All",3,0
 32.4335,-80.6728,"Beaufort","South Carolina","All","1870",1,0
 30.068805,-94.103896,"Beaumont","Texas","All","All",3,0
 30.068805,-94.103896,"Beaumont","Texas","All","1930",1,0
-41.204966,-73.729921,"Mt. Kisco","New York","All","All",1,0
-41.204966,-73.729921,"Mt. Kisco","New York","All","1940",1,0
+41.204966,-73.729921,"Mount Kisco","New York","All","All",1,0
+41.204966,-73.729921,"Mount Kisco","New York","All","1940",1,0
 36.1504,-95.9953,"Tulsa","Oklahoma","All","All",8,0
 36.1504,-95.9953,"Tulsa","Oklahoma","All","1980",2,0
 33.794233,-84.201754,"Stone Mountain","Georgia","All","All",2,0
@@ -1064,7 +1055,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","Poetry","1980",8,0
 33.794233,-84.201754,"Stone Mountain","Georgia","History","1990",1,0
 33.794233,-84.201754,"Stone Mountain","Georgia","History","All",1,0
-40.750316,-73.939393,"Long Island City","New York","All","All",2,0
+40.750316,-73.939393,"Long Island City","New York","All","All",1,0
 40.750316,-73.939393,"Long Island City","New York","All","1980",1,0
 42.056965,-79.481536,"Panama","New York","All","All",1,0
 42.056965,-79.481536,"Panama","New York","All","1930",1,0
@@ -1094,14 +1085,14 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.171606,-118.289892,"Glendale","California","All","1980",1,0
 34.171606,-118.289892,"Glendale","California","Education","1980",1,0
 34.171606,-118.289892,"Glendale","California","Education","All",1,0
-42.347429,-83.060398,"Detroit","Michigan","All","1960",25,0
+42.347429,-83.060398,"Detroit","Michigan","All","1960",26,0
 42.347429,-83.060398,"Detroit","Michigan","Civil rights","1960",4,0
 35.0337,-89.9343,"Memphis","Tennessee","All","1970",2,0
 35.0337,-89.9343,"Memphis","Tennessee","Education","1970",1,0
 35.0337,-89.9343,"Memphis","Tennessee","Education","All",2,0
 41.4957,-87.350932,"Merrillville","Indiana","All","All",2,0
 41.4957,-87.350932,"Merrillville","Indiana","All","1980",2,0
-40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1960",15,0
+40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1960",14,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","Poetry","1960",2,0
 35.651498,-80.488945,"Salisbury","North Carolina","All","1930",1,0
 37.621944,-122.381944,"San Francisco","California","All","1980",8,0
@@ -1151,6 +1142,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 28.597824,-81.353436,"Winter Park","Florida","Education","All",1,0
 33.7564,-84.3918,"Atlanta","Georgia","Education","1990",4,0
 41.885847,-87.618123,"Chicago","Illinois","Education","1970",7,0
+42.357603,-71.068432,"Boston","Massachusetts","All","1970",5,0
 41.482654,-81.797143,"Lakewood","Ohio","All","All",1,0
 41.482654,-81.797143,"Lakewood","Ohio","All","1990",1,0
 34.028656,-84.60466,"Kennesaw","Georgia","All","All",1,0
@@ -1161,6 +1153,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.100477,-75.117273,"Jenkintown","Pennsylvania","All","All",1,0
 40.100477,-75.117273,"Jenkintown","Pennsylvania","All","1980",1,0
 38.2435,-85.7639,"Louisville","Kentucky","All","1970",7,0
+34.16867,-118.371274,"North Hollywood","California","All","All",3,0
+34.16867,-118.371274,"North Hollywood","California","All","1990",2,0
 40.444025,-86.923661,"West Lafayette","Indiana","All","1950",1,0
 37.621944,-122.381944,"San Francisco","California","All","1960",14,0
 37.621944,-122.381944,"San Francisco","California","Art","1960",2,0
@@ -1173,7 +1167,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.366817,-81.086386,"Princeton","West Virginia","Poetry","1970",1,0
 37.366817,-81.086386,"Princeton","West Virginia","Music","All",1,0
 37.366817,-81.086386,"Princeton","West Virginia","Poetry","All",1,0
-40.74838,-73.996705,"New York","New York","Health","1980",6,0
+40.74838,-73.996705,"New York","New York","Health","1980",4,0
 40.74838,-73.996705,"New York","New York","Poetry","1980",8,0
 40.74838,-73.996705,"New York","New York","Health","1960",3,0
 34.199257,-118.59828,"Canoga Park","California","All","All",1,0
@@ -1219,7 +1213,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","Culture","1960",1,0
 38.912217,-77.017691,"Washington","District of Columbia","History","1960",2,0
 38.912217,-77.017691,"Washington","District of Columbia","Culture","1970",1,0
-38.912217,-77.017691,"Washington","District of Columbia","History","1970",7,0
+38.912217,-77.017691,"Washington","District of Columbia","History","1970",8,0
 47.611435,-122.330456,"Seattle","Washington","History","1990",1,0
 40.74838,-73.996705,"New York","New York","Civil rights","1980",4,0
 42.357603,-71.068432,"Boston","Massachusetts","Civil rights","1990",2,0
@@ -1258,12 +1252,12 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 41.885847,-87.618123,"Chicago","Illinois","Poetry","1970",5,0
 33.977876,-118.452475,"Marina del Rey","California","Education","1980",1,0
 33.977876,-118.452475,"Marina del Rey","California","Education","All",1,0
-40.74838,-73.996705,"New York","New York","Comic","1990",22,0
+40.74838,-73.996705,"New York","New York","Comic","1990",23,0
 40.474536,-79.952524,"Pittsburgh","Pennsylvania","Art","1970",1,0
 40.474536,-79.952524,"Pittsburgh","Pennsylvania","History","1970",1,0
 40.474536,-79.952524,"Pittsburgh","Pennsylvania","Poetry","1970",1,0
 40.474536,-79.952524,"Pittsburgh","Pennsylvania","Art","All",2,0
-40.74838,-73.996705,"New York","New York","Health","1970",8,0
+40.74838,-73.996705,"New York","New York","Health","1970",7,0
 41.885847,-87.618123,"Chicago","Illinois","Poetry","1980",5,0
 40.8222,-73.921735,"Bronx","New York","Art","1980",2,0
 40.8222,-73.921735,"Bronx","New York","Art","All",2,0
@@ -1449,7 +1443,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.419668,-119.70782,"Santa Barbara","California","All","1970",1,0
 34.419668,-119.70782,"Santa Barbara","California","Education","1970",1,0
 34.419668,-119.70782,"Santa Barbara","California","Education","All",2,0
-40.7308,-74.1744,"Newark","New Jersey","All","1970",11,0
+40.7308,-74.1744,"Newark","New Jersey","All","1970",10,0
 33.9924,-117.369421,"Riverside","California","All","All",4,0
 33.9924,-117.369421,"Riverside","California","All","1970",2,0
 40.55152,-74.458996,"Piscataway","New Jersey","All","All",3,0
@@ -1515,13 +1509,13 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 42.254522,-84.387476,"Jackson","Michigan","All","All",2,0
 42.254522,-84.387476,"Jackson","Michigan","All","1960",1,0
 33.973093,-118.247896,"Los Angeles","California","Health","1990",4,0
-36.167028,-86.778441,"Nashville","Tennessee","All","1940",11,0
+36.167028,-86.778441,"Nashville","Tennessee","All","1940",12,0
 40.654755,-73.609688,"Baldwin","New York","All","All",1,0
 40.654755,-73.609688,"Baldwin","New York","All","1990",1,0
 40.654755,-73.609688,"Baldwin","New York","Comic","1990",1,0
 40.654755,-73.609688,"Baldwin","New York","Comic","All",1,0
-37.249512,-81.325114,"Bluefield","Virginia","All","All",3,0
-37.249512,-81.325114,"Bluefield","Virginia","All","1990",1,0
+37.279788,-81.229023,"Bluefield","West Virginia","All","All",3,0
+37.279788,-81.229023,"Bluefield","West Virginia","All","1990",1,0
 32.2999,-90.1843,"Jackson","Mississippi","All","1940",5,0
 30.363875,-84.805433,"Hosford","Florida","All","All",1,0
 30.363875,-84.805433,"Hosford","Florida","All","1930",1,0
@@ -1534,7 +1528,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.192831,-84.88061,"Frankfort","Kentucky","All","All",2,0
 38.192831,-84.88061,"Frankfort","Kentucky","All","1890",1,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1920",6,0
-37.249512,-81.325114,"Bluefield","Virginia","All","1920",2,0
+37.279788,-81.229023,"Bluefield","West Virginia","All","1920",2,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Music","1990",5,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Music","All",6,0
 43.0459,-76.1528,"Syracuse","New York","All","1990",1,0
@@ -1577,7 +1571,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.716289,-116.832332,"Jamul","California","All","1940",1,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1890",5,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1880",3,0
-42.357603,-71.068432,"Boston","Massachusetts","All","1910",5,0
+42.357603,-71.068432,"Boston","Massachusetts","All","1910",6,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1930",4,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1940",4,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1950",3,0
@@ -1590,7 +1584,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.716111,-83.877778,"Wilberforce","Ohio","Art","All",3,0
 40.74838,-73.996705,"New York","New York","Civil rights","1910",2,0
 40.74838,-73.996705,"New York","New York","Civil rights","1920",1,0
-33.973093,-118.247896,"Los Angeles","California","Music","1970",5,0
 42.125443,-87.846535,"Northbrook","Illinois","All","All",2,0
 42.125443,-87.846535,"Northbrook","Illinois","All","1990",2,0
 41.1669,-73.2052,"Bridgeport","Connecticut","All","1970",2,0
@@ -1611,7 +1604,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.2732,-76.7194,"Williamsburg","Virginia","All","1990",1,0
 37.2732,-76.7194,"Williamsburg","Virginia","History","1990",1,0
 37.2732,-76.7194,"Williamsburg","Virginia","History","All",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1970",6,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1970",8,0
 40.6854,-89.5953,"Peoria","Illinois","All","1940",2,0
 25.779,-80.1982,"Miami","Florida","All","1940",3,0
 32.7469,-97.3268,"Fort Worth","Texas","All","1960",4,0
@@ -1622,7 +1615,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.887218,-74.559702,"Dover","New Jersey","All","1980",1,0
 40.261767,-76.883079,"Harrisburg","Pennsylvania","All","1940",1,0
 41.885847,-87.618123,"Chicago","Illinois","Education","1930",3,0
-33.973093,-118.247896,"Los Angeles","California","All","1940",17,0
+33.973093,-118.247896,"Los Angeles","California","All","1940",16,0
+40.6913,-73.8061,"Jamaica","New York","All","1920",1,0
 40.694021,-73.99034,"Brooklyn","New York","Art","1980",3,0
 40.694021,-73.99034,"Brooklyn","New York","Poetry","1980",2,0
 40.694021,-73.99034,"Brooklyn","New York","Art","All",6,0
@@ -1747,6 +1741,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 36.841107,-119.800359,"Fresno","California","All","1960",2,0
 32.71852,-117.159316,"San Diego","California","All","1970",2,0
 33.973093,-118.247896,"Los Angeles","California","Art","1970",3,0
+33.973093,-118.247896,"Los Angeles","California","Music","1970",4,0
 33.973093,-118.247896,"Los Angeles","California","Science","1970",1,0
 33.973093,-118.247896,"Los Angeles","California","Science","All",3,0
 33.973093,-118.247896,"Los Angeles","California","All","1870",2,0
@@ -1755,7 +1750,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.973093,-118.247896,"Los Angeles","California","All","1910",2,0
 33.973093,-118.247896,"Los Angeles","California","All","1920",14,0
 33.973093,-118.247896,"Los Angeles","California","All","1930",19,0
-33.973093,-118.247896,"Los Angeles","California","All","1950",18,0
+33.973093,-118.247896,"Los Angeles","California","All","1950",17,0
 37.621944,-122.381944,"San Francisco","California","All","1910",3,0
 29.7652,-95.3657,"Houston","Texas","All","1910",3,0
 29.7652,-95.3657,"Houston","Texas","All","1920",4,0
@@ -1776,8 +1771,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 41.20078,-90.741629,"Aledo","Illinois","All","1940",2,0
 39.778839,-74.930808,"Berlin","New Jersey","All","All",1,0
 39.778839,-74.930808,"Berlin","New Jersey","All","1930",1,0
-42.105308,-89.984454,"Mt. Carroll","Illinois","All","All",2,0
-42.105308,-89.984454,"Mt. Carroll","Illinois","All","1930",2,0
+42.105308,-89.984454,"Mount Carroll","Illinois","All","All",2,0
+42.105308,-89.984454,"Mount Carroll","Illinois","All","1930",2,0
 38.218865,-86.114465,"Corydon","Indiana","All","All",2,0
 38.218865,-86.114465,"Corydon","Indiana","All","1930",2,0
 39.895449,-75.041726,"Haddonfield","New Jersey","All","All",1,0
@@ -1786,8 +1781,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.550907,-82.562572,"Rockbridge","Ohio","All","1930",2,0
 33.561693,-93.303891,"Rosston","Arkansas","All","All",1,0
 33.561693,-93.303891,"Rosston","Arkansas","All","1930",1,0
-40.390106,-77.863704,"Mt. Union","Pennsylvania","All","All",1,0
-40.390106,-77.863704,"Mt. Union","Pennsylvania","All","1930",1,0
+40.390106,-77.863704,"Mount Union","Pennsylvania","All","All",1,0
+40.390106,-77.863704,"Mount Union","Pennsylvania","All","1930",1,0
 32.431623,-85.68606,"Tuskegee","Alabama","Education","1940",3,0
 32.431623,-85.68606,"Tuskegee","Alabama","Education","1950",1,0
 32.431623,-85.68606,"Tuskegee","Alabama","All","1960",4,0
@@ -1806,7 +1801,9 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 36.744874,-77.838437,"Lawrenceville","Virginia","All","1930",1,0
 33.928199,-80.321008,"Sumter","South Carolina","All","All",1,0
 33.928199,-80.321008,"Sumter","South Carolina","All","1930",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1930",4,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1930",2,0
+29.644226,-98.312774,"San Antonio","Texas","All","All",11,0
+29.644226,-98.312774,"San Antonio","Texas","All","1930",3,0
 30.505972,-97.747187,"Austin","Texas","All","1960",3,0
 43.073,-89.3817,"Madison","Wisconsin","All","1980",6,0
 39.360171,-94.788972,"Platte City","Missouri","All","All",1,0
@@ -1917,10 +1914,10 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.589599,-86.98868,"Decatur","Alabama","All","All",3,0
 34.589599,-86.98868,"Decatur","Alabama","All","1930",1,0
 40.6913,-73.8061,"Jamaica","New York","All","1980",1,0
-40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1900",4,0
+40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1900",5,0
 39.1063,-84.5356,"Cincinnati","Ohio","All","1890",2,0
 35.610222,-88.814011,"Jackson","Tennessee","All","1860",1,0
-39.775006,-86.109348,"Indianapolis","Indiana","All","1920",7,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1920",6,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","All","1850",3,0
 37.780595,-122.216587,"Oakland","California","All","1920",4,0
 27.438233,-80.443963,"Fort Pierce","Florida","All","All",2,0
@@ -1949,6 +1946,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.1063,-84.5356,"Cincinnati","Ohio","All","1840",2,0
 42.357603,-71.068432,"Boston","Massachusetts","Art","1910",1,0
 42.357603,-71.068432,"Boston","Massachusetts","Poetry","1910",1,0
+42.357603,-71.068432,"Boston","Massachusetts","Art","All",2,0
 47.666485,-117.436527,"Spokane","Washington","All","All",1,0
 47.666485,-117.436527,"Spokane","Washington","All","1900",1,0
 47.666485,-117.436527,"Spokane","Washington","All","1910",1,0
@@ -2003,18 +2001,18 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.7564,-84.3918,"Atlanta","Georgia","Health","1990",4,0
 33.7564,-84.3918,"Atlanta","Georgia","History","1990",3,0
 33.7564,-84.3918,"Atlanta","Georgia","Poetry","1990",4,0
-40.907863,-73.837961,"Mt. Vernon","New York","All","1940",2,0
-40.907863,-73.837961,"Mt. Vernon","New York","Education","1940",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","History","1940",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","Education","All",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","History","All",1,0
+40.907863,-73.837961,"Mount Vernon","New York","All","1940",2,0
+40.907863,-73.837961,"Mount Vernon","New York","Education","1940",1,0
+40.907863,-73.837961,"Mount Vernon","New York","History","1940",1,0
+40.907863,-73.837961,"Mount Vernon","New York","Education","All",1,0
+40.907863,-73.837961,"Mount Vernon","New York","History","All",1,0
 38.349,-81.630606,"Charleston","West Virginia","All","All",6,0
 38.349,-81.630606,"Charleston","West Virginia","All","1940",2,0
 38.349,-81.630606,"Charleston","West Virginia","Education","1940",1,0
 38.349,-81.630606,"Charleston","West Virginia","Education","All",2,0
 32.3743,-86.3118,"Montgomery","Alabama","All","1900",3,0
 32.3743,-86.3118,"Montgomery","Alabama","All","1910",2,0
-38.912217,-77.017691,"Washington","District of Columbia","All","1900",10,0
+38.912217,-77.017691,"Washington","District of Columbia","All","1900",9,0
 33.460084,-81.972959,"Augusta","Georgia","All","1860",3,0
 35.386611,-119.017063,"Bakersfield","California","All","1910",1,0
 34.039659,-117.180352,"Redlands","California","All","All",1,0
@@ -2059,13 +2057,13 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 43.0343,-87.9151,"Milwaukee","Wisconsin","Poetry","1990",3,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Art","All",3,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Poetry","All",5,0
-40.105155,-83.010069,"Columbus","Ohio","All","1930",5,0
+40.105155,-83.010069,"Columbus","Ohio","All","1930",4,0
 40.105155,-83.010069,"Columbus","Ohio","All","1960",4,0
 40.105155,-83.010069,"Columbus","Ohio","All","1970",6,0
 32.473035,-84.979456,"Columbus","Georgia","All","All",4,0
 32.473035,-84.979456,"Columbus","Georgia","All","1890",1,0
 32.473035,-84.979456,"Columbus","Georgia","All","1900",1,0
-40.105155,-83.010069,"Columbus","Ohio","All","1920",3,0
+40.105155,-83.010069,"Columbus","Ohio","All","1920",4,0
 40.105155,-83.010069,"Columbus","Ohio","All","1880",2,0
 40.105155,-83.010069,"Columbus","Ohio","All","1890",1,0
 40.105155,-83.010069,"Columbus","Ohio","All","1900",1,0
@@ -2085,7 +2083,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 41.593333,-87.346389,"Gary","Indiana","All","1930",1,0
 41.6005,-93.6088,"Des Moines","Iowa","All","1980",2,0
 36.8466,-76.2855,"Norfolk","Virginia","All","1970",7,0
-33.479838,-90.339421,"Itta Bena","Mississippi","All","All",2,0
+33.479838,-90.339421,"Itta Bena","Mississippi","All","All",3,0
 33.479838,-90.339421,"Itta Bena","Mississippi","All","1970",1,0
 40.769614,-74.207723,"East Orange","New Jersey","All","1980",2,0
 40.769614,-74.207723,"East Orange","New Jersey","Art","1980",1,0
@@ -2117,7 +2115,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 31.578222,-91.469471,"Vidalia","Louisiana","All","1890",1,0
 39.317824,-82.102011,"Athens","Ohio","Poetry","1970",2,0
 39.317824,-82.102011,"Athens","Ohio","Poetry","All",2,0
-40.74838,-73.996705,"New York","New York","Civil rights","1940",6,0
+40.74838,-73.996705,"New York","New York","Civil rights","1940",5,0
 41.308,-72.9286,"New Haven","Connecticut","History","1980",1,0
 41.308,-72.9286,"New Haven","Connecticut","History","All",2,0
 41.7636,-72.6855,"Hartford","Connecticut","All","All",11,0
@@ -2157,6 +2155,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 38.912217,-77.017691,"Washington","District of Columbia","Science","1980",1,0
 25.7611,-80.1403,"Miami Beach","Florida","All","All",2,0
 25.7611,-80.1403,"Miami Beach","Florida","All","1970",1,0
+25.7611,-80.1403,"Miami Beach","Florida","All","1980",1,0
 41.4918,-81.6757,"Cleveland","Ohio","Civil rights","1960",1,0
 41.4918,-81.6757,"Cleveland","Ohio","Civil rights","All",1,0
 42.377045,-71.125611,"Cambridge","Massachusetts","All","1960",3,0
@@ -2200,11 +2199,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 30.093056,-95.9875,"Prairie View","Texas","Art","1930",1,0
 30.093056,-95.9875,"Prairie View","Texas","Art","All",1,0
 33.973093,-118.247896,"Los Angeles","California","Education","1930",1,0
-37.220001,-77.432594,"Petersburg","Virginia","All","1920",1,0
-37.220001,-77.432594,"Petersburg","Virginia","Poetry","1920",1,0
-37.220001,-77.432594,"Petersburg","Virginia","All","1930",3,0
-37.220001,-77.432594,"Petersburg","Virginia","Poetry","1930",1,0
-37.220001,-77.432594,"Petersburg","Virginia","Poetry","All",2,0
 36.8527,-75.9783,"Virginia Beach","Virginia","All","All",1,0
 36.8527,-75.9783,"Virginia Beach","Virginia","All","1980",1,0
 36.8527,-75.9783,"Virginia Beach","Virginia","Art","1980",1,0
@@ -2266,8 +2260,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.74838,-73.996705,"New York","New York","Science","1950",1,0
 44.983473,-93.268251,"Minneapolis","Minnesota","Poetry","1990",1,0
 44.983473,-93.268251,"Minneapolis","Minnesota","Poetry","All",2,0
-39.115733,-94.627139,"Kansas City","Kansas","All","1950",2,0
-39.7578,-84.1777,"Dayton","Ohio","All","All",17,0
+39.7578,-84.1777,"Dayton","Ohio","All","All",18,0
 39.7578,-84.1777,"Dayton","Ohio","All","1940",4,0
 38.634616,-90.191313,"St. Louis","Missouri","All","1880",3,0
 35.730661,-95.375491,"Muskogee","Oklahoma","All","All",15,0
@@ -2292,17 +2285,18 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 42.370317,-84.248486,"Munith","Michigan","All","All",1,0
 42.370317,-84.248486,"Munith","Michigan","All","1990",1,0
 39.7578,-84.1777,"Dayton","Ohio","All","1970",4,0
-39.7578,-84.1777,"Dayton","Ohio","All","1980",4,0
+39.7578,-84.1777,"Dayton","Ohio","All","1990",2,0
+39.7578,-84.1777,"Dayton","Ohio","All","1980",3,0
 39.7578,-84.1777,"Dayton","Ohio","All","1910",1,0
 39.7578,-84.1777,"Dayton","Ohio","All","1920",1,0
 39.7578,-84.1777,"Dayton","Ohio","All","1930",2,0
+39.7578,-84.1777,"Dayton","Ohio","All","1890",1,0
 37.621944,-122.381944,"San Francisco","California","Poetry","1990",1,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","History","1970",2,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Poetry","1970",1,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","History","All",2,0
 38.650323,-82.647722,"Pedro","Ohio","All","All",2,0
 38.650323,-82.647722,"Pedro","Ohio","All","1930",1,0
-40.74838,-73.996705,"New York","New York","Comic","1980",1,0
 41.4918,-81.6757,"Cleveland","Ohio","All","1840",1,0
 38.2435,-85.7639,"Louisville","Kentucky","Civil rights","1960",2,0
 38.2435,-85.7639,"Louisville","Kentucky","Education","1960",2,0
@@ -2312,26 +2306,27 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 42.1258,-88.0764,"Palatine","Illinois","All","1930",1,0
 42.477784,-92.366099,"Waterloo","Iowa","All","All",3,0
 42.477784,-92.366099,"Waterloo","Iowa","All","1960",1,0
-41.873996,-72.272774,"Willington","Connecticut","History","1930",1,0
-41.873996,-72.272774,"Willington","Connecticut","History","All",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1920",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1940",2,0
-41.873996,-72.272774,"Willington","Connecticut","All","1820",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1830",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1840",1,0
-41.873996,-72.272774,"Willington","Connecticut","All","1980",4,0
-41.873996,-72.272774,"Willington","Connecticut","All","1990",1,0
-33.378737,-91.046793,"Greenville","Mississippi","All","All",6,0
+39.67703,-75.589938,"New Castle","Delaware","All","All",3,0
+39.67703,-75.589938,"New Castle","Delaware","All","1960",1,0
+39.67703,-75.589938,"New Castle","Delaware","All","1970",1,0
+39.67703,-75.589938,"New Castle","Delaware","All","1980",2,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1940",3,0
+39.737752,-75.549658,"Wilmington","Delaware","All","1980",5,0
+33.479838,-90.339421,"Itta Bena","Mississippi","All","1980",1,0
+33.378737,-91.046793,"Greenville","Mississippi","All","All",8,0
+33.378737,-91.046793,"Greenville","Mississippi","All","1930",3,0
 33.378737,-91.046793,"Greenville","Mississippi","All","1890",1,0
 33.378737,-91.046793,"Greenville","Mississippi","All","1900",1,0
 33.378737,-91.046793,"Greenville","Mississippi","All","1910",1,0
 33.378737,-91.046793,"Greenville","Mississippi","All","1920",2,0
-33.378737,-91.046793,"Greenville","Mississippi","All","1930",1,0
-33.378737,-91.046793,"Greenville","Mississippi","All","1990",1,0
-33.378737,-91.046793,"Greenville","Mississippi","Civil rights","1990",1,0
+33.378737,-91.046793,"Greenville","Mississippi","All","1960",2,0
+33.378737,-91.046793,"Greenville","Mississippi","Civil rights","1960",1,0
 33.378737,-91.046793,"Greenville","Mississippi","Civil rights","All",2,0
+39.746931,-105.062036,"Denver","Colorado","All","1910",2,0
+39.746931,-105.062036,"Denver","Colorado","All","1920",1,0
+39.746931,-105.062036,"Denver","Colorado","All","1930",1,0
+39.746931,-105.062036,"Denver","Colorado","All","1940",1,0
 39.746931,-105.062036,"Denver","Colorado","All","1960",1,0
-39.746931,-105.062036,"Denver","Colorado","All","1990",5,0
 32.524398,-92.715785,"Grambling","Louisiana","History","1990",1,0
 32.524398,-92.715785,"Grambling","Louisiana","History","All",1,0
 41.6005,-93.6088,"Des Moines","Iowa","All","1950",2,0
@@ -2403,6 +2398,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 28.539882,-81.372668,"Orlando","Florida","All","1980",2,0
 28.539882,-81.372668,"Orlando","Florida","Music","1980",1,0
 28.539882,-81.372668,"Orlando","Florida","Music","All",2,0
+37.911048,-81.170419,"Mount Hope","West Virginia","All","All",1,0
+37.911048,-81.170419,"Mount Hope","West Virginia","All","1930",1,0
 38.383611,-81.765556,"Institute","West Virginia","All","1920",1,0
 33.856986,-84.21602,"Tucker","Georgia","All","All",2,0
 33.856986,-84.21602,"Tucker","Georgia","All","1990",1,0
@@ -2481,10 +2478,10 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.621944,-122.381944,"San Francisco","California","All","1900",2,1
 34.419668,-119.70782,"Santa Barbara","California","All","1980",1,0
 34.419668,-119.70782,"Santa Barbara","California","Education","1980",1,0
+37.385556,-81.411111,"Elkhorn","West Virginia","All","All",1,0
+37.385556,-81.411111,"Elkhorn","West Virginia","All","1920",1,0
 36.295426,-82.490225,"Jonesborough","Tennessee","All","All",1,0
 36.295426,-82.490225,"Jonesborough","Tennessee","All","1820",1,0
-29.644226,-98.312774,"San Antonio","Texas","All","All",10,0
-29.644226,-98.312774,"San Antonio","Texas","All","1930",2,0
 42.357603,-71.068432,"Boston","Massachusetts","All","1850",4,0
 42.896659,-78.884575,"Buffalo","New York","All","1950",1,0
 42.896659,-78.884575,"Buffalo","New York","Civil rights","1950",1,0
@@ -2539,7 +2536,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.621944,-122.381944,"San Francisco","California","Education","All",2,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Education","1990",1,0
 33.973093,-118.247896,"Los Angeles","California","Science","1980",2,0
-39.7578,-84.1777,"Dayton","Ohio","All","1990",1,0
 47.611435,-122.330456,"Seattle","Washington","Music","1990",3,0
 47.611435,-122.330456,"Seattle","Washington","Music","All",3,0
 40.1162,-75.0141,"Philadelphia","Pennsylvania","Education","1930",1,0
@@ -2611,6 +2607,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 29.645029,-82.310046,"Gainesville","Florida","All","1890",1,0
 29.645029,-82.310046,"Gainesville","Florida","All","1900",1,0
 29.645029,-82.310046,"Gainesville","Florida","All","1910",1,0
+27.9428,-82.4549,"Tampa","Florida","All","All",8,0
 27.9428,-82.4549,"Tampa","Florida","All","1940",3,0
 28.539882,-81.372668,"Orlando","Florida","All","1930",2,0
 33.955048,-118.355575,"Inglewood","California","All","1990",2,0
@@ -2635,7 +2632,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.54956,-83.888727,"Fort Valley","Georgia","Education","1910",1,0
 32.54956,-83.888727,"Fort Valley","Georgia","Education","All",2,0
 32.7469,-97.3268,"Fort Worth","Texas","All","1940",5,0
-38.5816,-121.4933,"Sacramento","California","All","All",6,0
+38.5816,-121.4933,"Sacramento","California","All","All",5,0
 38.5816,-121.4933,"Sacramento","California","All","1900",1,0
 37.3894,-121.8868,"San Jose","California","All","1900",1,0
 40.6854,-89.5953,"Peoria","Illinois","All","1900",1,0
@@ -2695,8 +2692,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 25.779,-80.1982,"Miami","Florida","Music","All",1,0
 39.775006,-86.109348,"Indianapolis","Indiana","All","1880",2,0
 39.775006,-86.109348,"Indianapolis","Indiana","All","1890",3,1
-39.775006,-86.109348,"Indianapolis","Indiana","All","1900",4,1
-39.775006,-86.109348,"Indianapolis","Indiana","All","1910",5,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1900",3,0
+39.775006,-86.109348,"Indianapolis","Indiana","All","1910",4,0
 29.298272,-94.79297,"Galveston","Texas","All","1880",2,0
 37.056823,-96.140376,"Peru","Kansas","All","All",1,0
 37.056823,-96.140376,"Peru","Kansas","All","1890",1,0
@@ -3003,8 +3000,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 35.009129,-90.788572,"Forrest City","Arkansas","All","1990",1,0
 33.973093,-118.247896,"Los Angeles","California","Comic","1990",1,0
 33.973093,-118.247896,"Los Angeles","California","Comic","All",1,0
-39.775006,-86.109348,"Indianapolis","Indiana","All","1940",4,1
-39.775006,-86.109348,"Indianapolis","Indiana","All","1950",4,1
+39.775006,-86.109348,"Indianapolis","Indiana","All","1940",3,0
+39.775006,-86.109348,"Indianapolis","Indiana","All","1950",3,0
 36.167028,-86.778441,"Nashville","Tennessee","All","1890",6,0
 36.167028,-86.778441,"Nashville","Tennessee","Education","1890",1,0
 36.167028,-86.778441,"Nashville","Tennessee","Education","1900",1,0
@@ -3016,6 +3013,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.7308,-74.1744,"Newark","New Jersey","All","1950",4,0
 38.8847,-76.9108,"Capitol Heights","Maryland","All","All",1,0
 38.8847,-76.9108,"Capitol Heights","Maryland","All","1990",1,0
+39.277085,-77.856254,"Charles Town","West Virginia","All","All",2,0
+39.277085,-77.856254,"Charles Town","West Virginia","All","1990",2,0
 38.912217,-77.017691,"Washington","District of Columbia","Science","1970",2,0
 38.912217,-77.017691,"Washington","District of Columbia","Science","1960",1,0
 40.261767,-76.883079,"Harrisburg","Pennsylvania","All","1880",2,0
@@ -3029,6 +3028,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 31.314553,-89.306471,"Hattiesburg","Mississippi","All","1980",1,0
 41.517833,-74.03598,"Newburgh","New York","All","All",1,0
 41.517833,-74.03598,"Newburgh","New York","All","1980",1,0
+39.746931,-105.062036,"Denver","Colorado","All","1990",4,0
 21.3095,-157.863,"Honolulu","Hawaii","All","1960",1,0
 21.3095,-157.863,"Honolulu","Hawaii","Civil rights","1960",1,0
 21.3095,-157.863,"Honolulu","Hawaii","Health","1960",1,0
@@ -3085,6 +3085,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 36.8466,-76.2855,"Norfolk","Virginia","All","1990",5,0
 26.007011,-80.121931,"Hollywood","Florida","All","All",1,0
 26.007011,-80.121931,"Hollywood","Florida","All","1990",1,0
+39.67703,-75.589938,"New Castle","Delaware","All","1950",1,0
 34.091436,-118.129288,"Alhambra","California","All","All",1,0
 34.091436,-118.129288,"Alhambra","California","All","1990",1,0
 37.8691,-122.2696,"Berkeley","California","Art","1990",1,0
@@ -3094,7 +3095,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 29.7652,-95.3657,"Houston","Texas","All","1890",2,0
 29.7652,-95.3657,"Houston","Texas","All","1900",2,0
 39.775006,-86.109348,"Indianapolis","Indiana","All","1870",1,0
-39.775006,-86.109348,"Indianapolis","Indiana","All","1960",1,1
 30.068805,-94.103896,"Beaumont","Texas","All","1900",1,0
 33.401559,-86.705511,"Birmingham","Alabama","All","1920",3,0
 30.450731,-91.186954,"Baton Rouge","Louisiana","Science","1990",1,0
@@ -3203,6 +3203,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.643901,-95.222015,"Hawkins","Texas","All","1960",1,0
 36.799843,-81.183404,"Speedwell","Virginia","All","All",1,0
 36.799843,-81.183404,"Speedwell","Virginia","All","1930",1,0
+39.264433,-81.535412,"Parkersburg","West Virginia","All","All",1,0
+39.264433,-81.535412,"Parkersburg","West Virginia","All","1930",1,0
 25.936086,-80.135141,"North Miami Beach","Florida","All","All",1,0
 25.936086,-80.135141,"North Miami Beach","Florida","All","1990",1,0
 25.936086,-80.135141,"North Miami Beach","Florida","Education","1990",1,0
@@ -3321,6 +3323,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.653896,-85.838152,"Anniston","Alabama","Civil rights","1960",1,0
 33.653896,-85.838152,"Anniston","Alabama","Civil rights","All",1,0
 32.2999,-90.1843,"Jackson","Mississippi","Education","1980",3,0
+37.425556,-81.506944,"Kimball","West Virginia","All","All",1,0
+37.425556,-81.506944,"Kimball","West Virginia","All","1930",1,0
 34.532491,-90.629784,"Helena","Arkansas","All","1990",1,0
 34.532491,-90.629784,"Helena","Arkansas","Music","1990",1,0
 34.532491,-90.629784,"Helena","Arkansas","Music","All",1,0
@@ -3395,7 +3399,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.767987,-87.993336,"Gilman","Illinois","All","1940",1,0
 38.5816,-121.4933,"Sacramento","California","All","1970",1,0
 38.5816,-121.4933,"Sacramento","California","Civil rights","1970",1,0
-38.5816,-121.4933,"Sacramento","California","Civil rights","All",2,0
+38.5816,-121.4933,"Sacramento","California","Civil rights","All",1,0
 45.061132,-92.954847,"St. Paul","Minnesota","Civil rights","1980",1,0
 45.061132,-92.954847,"St. Paul","Minnesota","Civil rights","All",2,0
 25.779,-80.1982,"Miami","Florida","Education","1980",1,0
@@ -3468,7 +3472,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.364513,-89.582742,"University","Mississippi","Music","All",2,0
 35.651498,-80.488945,"Salisbury","North Carolina","All","1880",1,0
 33.973093,-118.247896,"Los Angeles","California","Civil rights","1960",3,0
-40.750316,-73.939393,"Long Island City","New York","All","1950",1,0
 40.713889,-73.600278,"Hempstead","New York","All","1960",1,0
 40.713889,-73.600278,"Hempstead","New York","Civil rights","1960",1,0
 40.713889,-73.600278,"Hempstead","New York","Civil rights","All",1,0
@@ -3615,7 +3618,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 32.419719,-87.024527,"Selma","Alabama","All","1890",2,0
 40.74838,-73.996705,"New York","New York","History","1900",1,0
 32.2999,-90.1843,"Jackson","Mississippi","Education","1920",1,0
-33.378737,-91.046793,"Greenville","Mississippi","All","1960",1,0
 33.378737,-91.046793,"Greenville","Mississippi","All","1970",2,0
 32.357441,-88.655973,"Meridian","Mississippi","All","1960",1,0
 32.3975,-90.158889,"Tougaloo","Mississippi","All","1960",1,0
@@ -3745,7 +3747,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 33.460084,-81.972959,"Augusta","Georgia","All","1920",2,0
 33.460084,-81.972959,"Augusta","Georgia","Education","1920",1,0
 33.460084,-81.972959,"Augusta","Georgia","Education","All",1,0
-37.220001,-77.432594,"Petersburg","Virginia","All","1890",3,0
+37.220001,-77.432594,"Petersburg","Virginia","All","1890",2,0
 37.220001,-77.432594,"Petersburg","Virginia","All","1900",1,0
 30.6959,-88.0434,"Mobile","Alabama","All","1860",1,0
 42.357603,-71.068432,"Boston","Massachusetts","Health","1960",1,0
@@ -4122,6 +4124,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.0004,-81.033418,"Columbia","South Carolina","All","1950",1,0
 34.0004,-81.033418,"Columbia","South Carolina","Education","1950",1,0
 34.0004,-81.033418,"Columbia","South Carolina","Education","All",3,0
+37.220001,-77.432594,"Petersburg","Virginia","All","1930",2,0
 37.220001,-77.432594,"Petersburg","Virginia","Education","1930",1,0
 37.220001,-77.432594,"Petersburg","Virginia","Education","All",2,0
 40.110881,-74.937753,"Bensalem","Pennsylvania","All","1960",1,0
@@ -4190,7 +4193,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 34.215405,-91.995812,"Pine Bluff","Arkansas","All","1900",1,0
 33.741613,-116.972974,"Hemet","California","All","All",1,0
 33.741613,-116.972974,"Hemet","California","All","1930",1,0
-39.958056,-74.628333,"New Lisbon","New Jersey","All","All",2,0
 32.0625,-89.992778,"Piney Woods","Mississippi","All","All",1,0
 32.0625,-89.992778,"Piney Woods","Mississippi","All","1910",1,0
 32.0625,-89.992778,"Piney Woods","Mississippi","Education","1910",1,0
@@ -4207,6 +4209,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.474536,-79.952524,"Pittsburgh","Pennsylvania","All","1960",2,0
 39.115733,-94.627139,"Kansas City","Kansas","All","1930",1,0
 39.115733,-94.627139,"Kansas City","Kansas","All","1940",1,0
+39.115733,-94.627139,"Kansas City","Kansas","All","1950",1,0
 42.347429,-83.060398,"Detroit","Michigan","All","1880",1,0
 32.72217,-103.137246,"Hobbs","New Mexico","All","All",1,0
 32.72217,-103.137246,"Hobbs","New Mexico","All","1970",1,0
@@ -4387,6 +4390,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.780595,-122.216587,"Oakland","California","Music","1980",2,0
 37.780595,-122.216587,"Oakland","California","Culture","All",1,0
 37.780595,-122.216587,"Oakland","California","Music","All",2,0
+34.16867,-118.371274,"North Hollywood","California","All","1980",1,0
 37.5594,-77.4472,"Richmond","Virginia","All","1880",3,0
 39.83244,-84.893606,"Richmond","Indiana","All","All",1,0
 39.83244,-84.893606,"Richmond","Indiana","All","1910",1,0
@@ -4425,6 +4429,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.7816,-73.8272,"Flushing","New York","All","1970",1,0
 40.7816,-73.8272,"Flushing","New York","Art","1970",1,0
 40.7816,-73.8272,"Flushing","New York","Art","All",1,0
+37.580175,-80.524767,"Union","West Virginia","All","All",1,0
+37.580175,-80.524767,"Union","West Virginia","All","1930",1,0
 41.330201,-88.694678,"Marseilles","Illinois","All","All",1,0
 41.330201,-88.694678,"Marseilles","Illinois","All","1940",1,0
 41.330201,-88.694678,"Marseilles","Illinois","Education","1940",1,0
@@ -4561,6 +4567,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.657107,-73.674143,"Lynbrook","New York","All","1990",1,0
 40.657107,-73.674143,"Lynbrook","New York","Culture","1990",1,0
 40.657107,-73.674143,"Lynbrook","New York","Culture","All",1,0
+39.958056,-74.628333,"New Lisbon","New Jersey","All","All",1,0
 39.958056,-74.628333,"New Lisbon","New Jersey","All","1930",1,0
 39.958056,-74.628333,"New Lisbon","New Jersey","All","1940",1,0
 37.9962,-78.4782,"Charlottesville","Virginia","All","All",2,0
@@ -4580,6 +4587,7 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 37.8691,-122.2696,"Berkeley","California","History","1960",1,0
 37.8691,-122.2696,"Berkeley","California","Poetry","1960",3,0
 37.220001,-77.432594,"Petersburg","Virginia","Poetry","1970",1,0
+37.220001,-77.432594,"Petersburg","Virginia","Poetry","All",1,0
 41.672699,-86.253489,"South Bend","Indiana","All","1920",1,0
 34.0004,-81.033418,"Columbia","South Carolina","All","1990",1,0
 31.219686,-82.364512,"Waycross","Georgia","All","All",2,0
@@ -4677,7 +4685,6 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 39.746931,-105.062036,"Denver","Colorado","All","1880",1,0
 39.746931,-105.062036,"Denver","Colorado","All","1890",1,0
 39.746931,-105.062036,"Denver","Colorado","All","1900",1,0
-39.746931,-105.062036,"Denver","Colorado","All","1910",1,0
 41.527154,-88.08241,"Joliet","Illinois","All","All",1,0
 41.527154,-88.08241,"Joliet","Illinois","All","1990",1,0
 43.0343,-87.9151,"Milwaukee","Wisconsin","Music","1970",1,0
@@ -5041,9 +5048,9 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 40.940716,-73.888317,"Yonkers","New York","All","1990",1,0
 42.246978,-73.755248,"Hudson","New York","All","All",1,0
 42.246978,-73.755248,"Hudson","New York","All","1920",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","All","1950",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","All","1960",1,0
-40.907863,-73.837961,"Mt. Vernon","New York","All","1970",1,0
+40.907863,-73.837961,"Mount Vernon","New York","All","1950",1,0
+40.907863,-73.837961,"Mount Vernon","New York","All","1960",1,0
+40.907863,-73.837961,"Mount Vernon","New York","All","1970",1,0
 39.0541,-95.6719,"Topeka","Kansas","Education","1900",1,0
 39.0541,-95.6719,"Topeka","Kansas","Education","All",1,0
 38.8335,-104.8206,"Colorado Springs","Colorado","All","1890",1,0
@@ -5094,8 +5101,8 @@ Lat,Lon,City,State,Highlight,Decade,Count,Links
 35.9609,-83.9189,"Knoxville","Tennessee","All","1980",1,0
 38.830699,-77.214245,"Annandale","Virginia","All","All",1,0
 38.830699,-77.214245,"Annandale","Virginia","All","1990",1,0
-42.047903,-89.434614,"Mt. Morris","Illinois","All","All",1,0
-42.047903,-89.434614,"Mt. Morris","Illinois","All","1910",1,0
+42.047903,-89.434614,"Mount Morris","Illinois","All","All",1,0
+42.047903,-89.434614,"Mount Morris","Illinois","All","1910",1,0
 30.313889,-84.2475,"Woodville","Florida","All","All",1,0
 30.313889,-84.2475,"Woodville","Florida","All","1930",1,0
 47.094431,-91.846731,"Duluth","Minnesota","All","1890",1,0
